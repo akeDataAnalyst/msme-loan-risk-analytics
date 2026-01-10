@@ -1,0 +1,1001 @@
+loan_id,borrower_name,region,sector,loan_date,loan_amount_etb,interest_rate,term_months,mobile_transactions,income_variability,credit_score,default
+ee892190-394b-4d35-9f37-7ff855327432,Habtamu Samuel,Sidama,Trade/Retail (Market Vendors/Suq),2025-12-15,383074.22,18.26,6,394,0.176,718,0
+108e04ac-99c6-407f-ac81-4510c42eafc8,Zewditu Worku,Dire Dawa,Trade/Retail (Market Vendors/Suq),2025-06-18,390097.59,23.02,36,248,0.261,776,0
+b7aa53b6-e900-466f-a083-bf8857dda51e,Worknesh Tewodros,Afar,Trade/Retail (Market Vendors/Suq),2025-10-02,123260.26,16.86,36,153,0.345,654,0
+8fd8acb4-c8fb-4050-a460-cf44a7674726,Marta Eskinder,Addis Ababa,Trade/Retail (Market Vendors/Suq),2024-08-20,107247.4,25.07,36,342,0.12,706,0
+4253fb27-393a-40a9-bbbd-f80ccef66a14,Liya Ermias,Amhara,Manufacturing (Textiles/Food Processing),2024-11-14,82894.72,20.67,12,389,0.151,556,0
+16d1d768-1c83-40ba-9672-380e4a7d6fa1,Meklit Robel,Afar,Agriculture (Smallholder Farming),2023-07-04,34694.51,27.78,24,136,0.306,443,1
+302b0401-efed-498b-979a-7368bd96bb0a,Hiwot Tsegaye,Addis Ababa,Construction,2024-06-17,261944.01,17.7,36,353,0.221,761,0
+da73dae0-209e-4e48-9e24-038e92a593c8,Tewodros Berhanu,Amhara,Construction,2023-07-05,54445.17,22.51,36,200,0.15,662,0
+bca6a6b0-93b0-427e-a154-7769f43dd740,Fitsum Habtamu,Dire Dawa,Livestock,2024-05-06,179081.81,19.47,6,270,0.227,559,0
+891d47fe-970e-487a-8fd7-b0f24f908490,Eyob Getachew,Central Ethiopia,Construction,2023-01-08,33615.38,22.99,18,441,0.202,802,0
+6c778135-fad7-4ab7-a35d-8150d8dcc3a5,Fitsum Yonas,Oromia,Trade/Retail (Market Vendors/Suq),2023-10-27,219569.52,19.51,24,458,0.192,811,0
+ade6bf3c-cc2a-461d-9d72-33dbc572aa5b,Almaz Kaleb,Addis Ababa,Agriculture (Smallholder Farming),2024-05-16,122693.55,14.25,36,68,0.331,649,0
+973d1855-9a03-4d06-a9eb-0bf9850e6d30,Senait Worku,Addis Ababa,Manufacturing (Textiles/Food Processing),2023-07-21,169703.55,14.71,18,336,0.236,772,0
+89cd90e7-025a-4dd4-a533-31401b493710,Yohannes Ephrem,Afar,Digital/Tech (Mobile Money Agents),2023-12-17,16011.83,13.72,36,207,0.235,563,0
+f1613bab-d0ef-4299-a50b-1c5a50e08a81,Blen Dejen,Oromia,Services (Transport/Tourism),2024-12-21,203582.11,19.56,24,385,0.156,657,0
+ae133adc-7ff5-488e-b80a-1bb7d653d4bb,Kidist Amanuel,Dire Dawa,Digital/Tech (Mobile Money Agents),2024-04-11,147460.49,24.39,24,246,0.105,770,0
+2557c82c-488c-4ea4-99f9-a33825bdab14,Mulugeta Yosef,Afar,Construction,2024-12-14,373584.46,26.02,24,117,0.271,524,1
+b3f5a21c-d3e7-4237-8d21-74d3d9606af0,Eyob Abebe,Benishangul-Gumuz,Construction,2025-11-04,110569.3,13.51,6,91,0.27,565,0
+809bd813-4f13-423b-91f4-a72499503858,Tirhas Eskinder,South West Ethiopia,Agriculture (Smallholder Farming),2023-02-28,229140.26,18.93,18,164,0.392,443,0
+d900da4b-ff31-4846-8600-fc5f1f9b5662,Solomon Mesfin,Tigray,Digital/Tech (Mobile Money Agents),2025-12-10,33847.01,19.83,24,258,0.246,715,0
+37387270-d424-49f3-a18e-44407a70bcf8,Askale Yosef,Sidama,Digital/Tech (Mobile Money Agents),2025-06-15,292358.2,21.04,18,474,0.184,697,0
+606ffa15-f76c-432e-b442-8cde4a9f6c5c,Elias Habtamu,Oromia,Construction,2025-02-12,326657.48,25.01,12,236,0.216,780,0
+27177e59-5548-4613-8f69-ef2dfb2c2c83,Tesfaye Hagos,Gambela,Manufacturing (Textiles/Food Processing),2023-04-07,371142.89,12.38,24,85,0.228,571,0
+cf7798cc-ef36-4eb1-bb8f-7b2bd91b1cb6,Fitsum Dawit,Addis Ababa,Agriculture (Smallholder Farming),2023-11-29,56449.02,13.29,18,90,0.331,552,0
+ec5412b4-0d74-4c38-bc58-82ecb34de663,Mahlet Worku,Gambela,Trade/Retail (Market Vendors/Suq),2023-12-21,283584.18,27.78,6,80,0.291,850,0
+644d852c-ba36-46cc-bccd-1ac6db55daf5,Dejen Eyob,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2023-10-11,220379.4,20.28,36,140,0.221,630,0
+e9917f60-a8c4-40ca-90a4-a31afc00f3e7,Samuel Bekele,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-04-14,89917.25,26.32,24,237,0.369,607,0
+646cd3c1-8c45-4c9e-8585-5672fdb651a6,Tesfaye Addis,Gambela,Digital/Tech (Mobile Money Agents),2023-09-10,78427.44,24.9,24,121,0.362,578,0
+fd853cf8-7932-48b9-ad8a-c4bc6c24dcaa,Blen Hagos,Afar,Livestock,2024-06-13,305882.82,13.56,36,132,0.226,554,0
+126301a0-641c-4619-a430-58d9c1f98e90,Selome Eskinder,Amhara,Livestock,2024-06-30,398264.21,13.56,24,388,0.254,799,0
+b245b7d9-4849-432c-8875-4d16ba0c96e2,Tsegaye Mikael,Somali,Agriculture (Smallholder Farming),2025-04-04,328679.64,26.66,36,143,0.36,546,1
+64ce4589-8c4a-42ba-9b33-5860b37bdb99,Mignot Fikre,Gambela,Digital/Tech (Mobile Money Agents),2023-11-05,333045.96,19.57,18,107,0.353,514,1
+ca9128fb-c094-4932-92cb-8f692182b518,Natnael Kebede,Somali,Digital/Tech (Mobile Money Agents),2023-06-06,380063.83,12.97,12,131,0.364,600,0
+d98d213c-0ddb-4654-8e19-2f51dda8b391,Berhanu Tariku,Oromia,Livestock,2025-06-25,174717.23,14.75,36,294,0.164,614,0
+93c09687-29e7-4176-a796-17c47520d99e,Adane Amanuel,Sidama,Construction,2024-04-22,82952.17,19.82,6,450,0.244,763,0
+4a84525f-7b81-4ce1-b22a-2428711f4ae4,Hakim Mesfin,Harari,Manufacturing (Textiles/Food Processing),2023-08-07,258252.35,23.03,6,202,0.22,850,0
+bf95ff33-cdea-4f52-b7d7-cab335b33f54,Askale Habtamu,Addis Ababa,Construction,2023-08-18,37186.02,25.76,36,447,0.24,749,0
+5cbad410-0256-4225-a6b7-8891bc3ddbfc,Blen Getachew,Sidama,Trade/Retail (Market Vendors/Suq),2023-11-05,14930.61,15.48,24,490,0.112,740,0
+fd0d4cb1-c916-4a93-ada6-3c4b1a1940e4,Dagmawit Adane,Oromia,Construction,2025-06-18,327318.05,12.07,6,360,0.19,589,0
+6d572692-fb92-4354-b34d-4b136065f5cf,Askale Worku,Somali,Trade/Retail (Market Vendors/Suq),2023-08-23,263418.38,13.35,36,156,0.249,813,0
+0e6bbde0-ed0d-4017-ab10-a823d7770933,Genet Amanuel,Somali,Agriculture (Smallholder Farming),2025-11-26,66888.96,14.96,12,140,0.341,483,1
+2dfc6b9c-794f-4bef-b962-77e55b078b11,Tirhas Ephrem,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2023-06-04,164108.15,22.46,36,170,0.29,673,0
+a66ccf43-83f3-4f4e-baf3-6aec1e0a7157,Tadesse Dejen,Harari,Trade/Retail (Market Vendors/Suq),2023-03-28,59345.5,12.78,18,495,0.258,675,0
+260892d6-f840-46f2-af0e-ebef97e89057,Mikael Dejen,Amhara,Digital/Tech (Mobile Money Agents),2024-06-14,237124.52,27.79,18,402,0.26,492,0
+08b3c111-3eb8-42c6-a76c-269fb8f91075,Robel Addis,South Ethiopia,Services (Transport/Tourism),2025-09-05,125772.29,14.44,12,228,0.242,521,0
+4d7d10f3-7d16-4638-a58a-83773da8b37a,Addis Zewdu,Somali,Manufacturing (Textiles/Food Processing),2023-07-09,385015.8,21.26,12,238,0.378,527,0
+a71db3a6-2c28-4bbd-b45d-bd91989da530,Feven Robel,Harari,Digital/Tech (Mobile Money Agents),2025-12-09,136585.68,14.93,36,382,0.126,541,0
+cb9a6ed5-fdbc-4bdb-b119-779cc69e17c9,Bekele Haile,Harari,Services (Transport/Tourism),2024-08-11,151913.35,14.07,24,310,0.182,585,0
+76b35303-c719-4dd0-96f0-c19ca894b11e,Almaz Zewdu,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-11-12,46781.93,18.85,12,491,0.277,749,0
+a737d19b-a1e0-4bf1-8674-8ee461d15db2,Dagmawit Jemal,Harari,Trade/Retail (Market Vendors/Suq),2025-10-12,338847.67,27.23,18,414,0.242,760,0
+1ddb4f15-1eb8-4863-82f8-60445e08e249,Rahel Hakim,South Ethiopia,Digital/Tech (Mobile Money Agents),2024-11-27,39501.43,19.41,36,216,0.378,641,0
+ab35f75a-a433-46c9-bd3d-6b721f3ec572,Bezawit Alemu,Oromia,Agriculture (Smallholder Farming),2023-05-14,285546.56,24.17,18,114,0.405,605,1
+92aef13c-963b-4564-85e5-14ff399557cb,Lencho Bereket,Oromia,Livestock,2025-03-07,128786.18,12.57,24,185,0.268,503,0
+becfdded-b198-447f-8612-d4247ac067a6,Mulugeta Yohannes,Afar,Manufacturing (Textiles/Food Processing),2025-06-13,68162.69,25.27,12,197,0.354,650,1
+624b31d7-2e5c-48ad-97c6-eb3ccb5a1c0e,Bezawit Bekele,Sidama,Agriculture (Smallholder Farming),2023-06-01,152746.0,16.87,6,179,0.302,567,1
+6f041c76-b3e6-422d-a504-4925fffcff63,Zewditu Assefa,Dire Dawa,Livestock,2025-01-27,215408.85,26.83,12,180,0.106,662,0
+534234cf-1974-4b71-a00f-7ed09248c8c8,Lencho Yohannes,Central Ethiopia,Manufacturing (Textiles/Food Processing),2024-04-13,34599.32,24.63,18,456,0.195,792,0
+cb93dab6-dcb9-4394-a8ac-64c4b6b98240,Yordanos Amanuel,Dire Dawa,Digital/Tech (Mobile Money Agents),2023-04-14,180741.82,20.87,18,392,0.244,535,0
+b363d272-d018-4ce6-a7c3-bd9e2f54f0e5,Dawit Kebede,Harari,Livestock,2025-04-19,249090.29,22.05,18,186,0.232,704,0
+89529c51-d145-4eb7-8e59-f57964cfd9b9,Yohannes Tariku,Central Ethiopia,Construction,2023-02-05,86942.44,27.22,24,386,0.197,601,0
+d64f10b5-84d6-4400-905d-d35c7d127b6b,Konjit Eskinder,Addis Ababa,Services (Transport/Tourism),2025-04-08,158424.62,24.31,24,329,0.227,675,0
+ca41e052-d19e-4f98-b6b8-432989fab5cc,Worknesh Natnael,Tigray,Manufacturing (Textiles/Food Processing),2025-07-02,44428.5,27.93,36,330,0.262,647,0
+351c586a-c0c3-459e-80e5-ea1a1fc45171,Tsegaye Robel,Harari,Construction,2025-10-14,290605.65,19.07,6,240,0.218,542,0
+dcac41f8-2e40-41c1-9e09-14d2e5c943b1,Jemal Elias,South West Ethiopia,Agriculture (Smallholder Farming),2025-10-25,175529.22,14.33,6,68,0.466,449,1
+8e023ef0-015c-49f4-ae10-6355b1f9ab31,Ermias Yonas,South Ethiopia,Agriculture (Smallholder Farming),2025-07-24,358681.3,19.95,6,99,0.409,549,1
+0a054950-1f7f-45b0-9075-b55accee6b1c,Kidist Abera,Afar,Digital/Tech (Mobile Money Agents),2024-11-30,388805.53,17.96,36,91,0.279,579,0
+29451370-a713-42ab-b4cb-7b9a933882b3,Meklit Mikael,Gambela,Digital/Tech (Mobile Money Agents),2023-07-25,298718.87,24.32,24,175,0.375,526,1
+c0c91cd8-d9f8-424e-81bb-0e0d8fffc06d,Ephrem Kebede,South West Ethiopia,Livestock,2023-05-22,25645.47,27.77,12,109,0.274,660,0
+8192ef8f-1fed-4603-badc-970415a905b4,Hiwot Haile,Gambela,Livestock,2023-03-01,238188.96,15.44,24,115,0.362,569,0
+2bee2fff-8b5f-43fe-b75d-dff45d123e9b,Genet Eyob,Tigray,Trade/Retail (Market Vendors/Suq),2024-04-13,214388.25,26.64,6,491,0.275,586,0
+00059b9d-a87d-41ff-b1fa-7e6afa236dbb,Eskinder Bereket,Somali,Construction,2024-10-24,41401.46,20.99,18,192,0.222,527,0
+f21f9823-f23b-4efb-8bd1-8d4a4cf41edd,Roman Kaleb,Harari,Manufacturing (Textiles/Food Processing),2024-01-26,168038.06,12.64,18,457,0.25,606,0
+a8be8d1f-4b1c-4df3-8865-b35ce79524eb,Abeba Haile,Amhara,Digital/Tech (Mobile Money Agents),2025-03-22,349318.72,23.94,24,347,0.139,688,0
+7d8da92b-93ba-44a3-a3cd-8a4471e64bce,Worku Hagos,Central Ethiopia,Agriculture (Smallholder Farming),2025-04-14,162373.99,24.26,24,60,0.389,495,0
+fc6bc66b-e929-45a3-85cd-74bf501c93a3,Emebet Tewodros,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2025-12-20,301938.0,26.44,6,265,0.109,618,0
+35b80aae-82b6-4c8e-89c8-18d79b2e18c0,Dawit Amanuel,Amhara,Manufacturing (Textiles/Food Processing),2024-07-05,192679.72,26.16,12,274,0.165,688,0
+0b73ca1c-d1dc-41e5-a9a1-44751958a981,Fitsum Mesfin,Amhara,Livestock,2025-12-09,374320.58,24.11,12,417,0.119,615,0
+4cb9be7b-2444-4f64-b025-985609676569,Meron Worku,Somali,Digital/Tech (Mobile Money Agents),2024-01-09,76341.68,19.92,12,238,0.295,591,0
+8d548038-9a26-4279-a25b-74adf519ab52,Meskerem Tariku,Central Ethiopia,Digital/Tech (Mobile Money Agents),2023-12-06,316394.45,27.07,18,267,0.258,667,0
+20e4dbfe-4703-47f7-9beb-b1c7977f199a,Aster Tariku,Tigray,Services (Transport/Tourism),2023-12-07,145618.52,18.4,12,340,0.165,651,0
+41458abc-8cc2-40f0-9309-3c176c092d0a,Tsegaye Dejen,Harari,Services (Transport/Tourism),2025-08-29,214240.79,27.72,36,223,0.111,824,0
+29cf4c70-e756-41e0-a657-41db61bc7c56,Mikael Tesfaye,Oromia,Livestock,2024-02-14,68953.16,21.78,6,365,0.143,631,0
+4111e681-f1da-433d-9550-239074c0db3e,Abera Addis,Harari,Services (Transport/Tourism),2024-09-18,138334.5,21.57,18,421,0.133,606,0
+24aba2a0-b1cb-4263-b0b0-e7296ce34d67,Aberash Eskinder,Central Ethiopia,Livestock,2025-11-21,147918.77,20.4,12,332,0.208,850,0
+bb909511-a12b-41ae-9210-17873429ce3b,Dagmawit Adane,Dire Dawa,Services (Transport/Tourism),2025-04-17,130022.31,14.02,36,333,0.237,624,0
+a54427ec-b261-4d5c-a214-245cfecfdd72,Mahlet Abera,Benishangul-Gumuz,Livestock,2024-02-28,168765.86,19.98,36,132,0.305,567,1
+a845fee9-904a-4a37-9f44-b716b6e5dd9a,Birhanu Tsegaye,Oromia,Agriculture (Smallholder Farming),2023-11-01,291376.06,12.99,12,89,0.394,541,1
+29feba14-9add-47c8-82ec-e8aad20cd375,Jemal Solomon,Tigray,Livestock,2025-10-08,68145.0,27.76,6,282,0.26,623,0
+fe11230e-50fc-4daa-a74b-369ed2524487,Ermias Yohannes,Oromia,Manufacturing (Textiles/Food Processing),2024-10-18,81699.83,27.06,36,453,0.196,628,0
+9a86013d-f6c9-4d38-86a2-074c61025637,Samuel Eyob,Harari,Digital/Tech (Mobile Money Agents),2024-11-09,140762.44,27.77,24,280,0.194,632,0
+880e6ddd-1fe7-4d21-8526-ed6213d8a6e6,Genet Dejen,Somali,Agriculture (Smallholder Farming),2024-01-25,197958.27,12.68,18,86,0.393,701,1
+10e2b676-6822-4128-8c61-e59faf194390,Marta Dejen,Tigray,Construction,2023-06-25,148427.37,27.72,12,347,0.133,588,0
+e8c44e4c-5ce1-4cc2-96c7-02a1a3e2ac17,Leulit Tesfaye,Dire Dawa,Digital/Tech (Mobile Money Agents),2024-05-31,296206.95,27.92,36,234,0.247,592,0
+de6d4e25-2575-4bd1-85f3-e8a4c72fa86e,Mahlet Gemechu,Benishangul-Gumuz,Livestock,2024-06-07,335661.68,26.98,24,207,0.378,552,1
+608d4b54-1913-4b90-8286-675d460db751,Betelhem Amanuel,Gambela,Trade/Retail (Market Vendors/Suq),2023-12-22,44716.29,16.35,36,181,0.343,640,0
+c8613afa-1ae1-4565-b3a8-0aa060ee0cbc,Kaleb Hagos,Amhara,Livestock,2023-12-17,256115.65,20.22,24,249,0.228,779,0
+e0218caf-ba73-4a4e-86c7-1c162cfcbb3f,Hirut Bereket,South West Ethiopia,Manufacturing (Textiles/Food Processing),2023-07-16,274104.14,23.16,18,167,0.306,567,1
+7d57a51f-ce8a-4306-9243-8d1b96bd5e9f,Sisay Yohannes,Dire Dawa,Agriculture (Smallholder Farming),2024-04-26,158647.58,24.44,36,127,0.399,529,1
+9278f380-b351-4ddc-9951-86208769ee24,Worku Hagos,Tigray,Construction,2023-06-03,154038.77,26.22,18,263,0.184,462,0
+195c663b-9b82-4430-8563-cafe8d31df34,Worku Haile,Gambela,Construction,2024-03-19,117901.28,22.5,36,154,0.239,629,0
+c07abe48-f24e-4fd6-9168-36122bb61a4e,Elias Gemechu,Gambela,Services (Transport/Tourism),2023-03-21,84391.82,23.1,36,212,0.316,541,0
+bdc5a633-ce5b-461f-985d-40112e408d57,Askale Yonas,Harari,Trade/Retail (Market Vendors/Suq),2024-09-02,169504.74,23.19,36,369,0.215,825,0
+8d3a5b2d-881c-4211-89eb-597bf7ceddc4,Emebet Bereket,South Ethiopia,Digital/Tech (Mobile Money Agents),2025-11-23,305595.72,21.89,18,213,0.346,678,0
+7a139e90-6714-472a-9981-5a41e1cc233c,Alemu Tesfaye,Afar,Trade/Retail (Market Vendors/Suq),2025-07-17,249814.93,25.16,6,192,0.307,622,0
+afc8d769-026e-4d11-8251-d2f020a89260,Tirhas Haile,Somali,Construction,2025-07-14,154733.55,23.16,6,115,0.296,648,0
+2059ad46-a856-4b74-a7ce-46ceb695c2bf,Bereket Haile,Tigray,Manufacturing (Textiles/Food Processing),2025-03-13,276972.33,15.47,6,416,0.277,713,0
+44725ab7-bc44-4417-914b-a9bb60f91495,Askale Assefa,Benishangul-Gumuz,Services (Transport/Tourism),2023-08-15,138783.94,20.57,18,105,0.242,484,0
+f978d269-a3a2-4f35-b9b5-13c7eb1efddc,Ermias Birhanu,South West Ethiopia,Livestock,2023-03-29,225684.76,22.38,12,213,0.282,706,0
+ad9f835f-3fc5-4786-870c-15e3b51ee0dd,Solomon Eyob,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-08-03,52339.63,24.67,6,133,0.247,548,0
+2edff02e-7531-4081-b4ef-fa296b1205aa,Tsion Worku,Dire Dawa,Livestock,2025-08-08,350283.0,20.4,6,475,0.104,610,0
+77fa7bbc-cc68-453e-9a9f-d637fc7aa2dc,Tirhas Solomon,Benishangul-Gumuz,Services (Transport/Tourism),2024-11-17,317858.06,14.69,36,82,0.275,709,0
+6d820335-f3de-49dc-869c-558b496d036a,Amanuel Yosef,Somali,Livestock,2025-02-24,84408.98,24.91,36,241,0.325,539,0
+ec7ef0ab-e1a2-4ffa-b7ed-70cff111be9e,Addis Adane,Sidama,Agriculture (Smallholder Farming),2025-03-24,61390.65,18.13,18,120,0.341,562,1
+1641d960-dba0-4dec-a2b8-fdcc4e20c377,Tsion Alemu,Amhara,Trade/Retail (Market Vendors/Suq),2023-12-27,233729.97,26.63,18,225,0.191,506,0
+d862042e-500f-46b1-8544-a04968115a5c,Leulit Worku,South West Ethiopia,Agriculture (Smallholder Farming),2024-04-24,114872.68,12.9,24,43,0.382,567,1
+bade33a0-13a2-4a82-9458-771da27a2bda,Mahlet Tadesse,Somali,Manufacturing (Textiles/Food Processing),2023-05-26,129844.52,20.54,6,111,0.241,545,0
+9347f486-2a44-4a88-97f8-5f5bf1e2cce7,Alemu Solomon,Addis Ababa,Trade/Retail (Market Vendors/Suq),2024-01-13,249262.18,13.53,36,244,0.164,700,0
+8ddd6a3e-492d-45a7-be50-150015a75ed9,Kidist Tadesse,Somali,Livestock,2023-04-05,342479.15,21.28,18,169,0.303,647,0
+f6508852-02bc-42e0-9fd5-988eceefd2c9,Ruth Girma,Addis Ababa,Construction,2025-02-09,221159.45,12.3,36,347,0.111,750,0
+bb15894a-eeb4-4b07-8239-01c4ad5209e7,Tsegaye Fitsum,Dire Dawa,Agriculture (Smallholder Farming),2024-10-25,241533.28,24.89,18,123,0.385,543,1
+af642572-83d7-4afc-bf70-29737acabb76,Kaleb Eskinder,South Ethiopia,Manufacturing (Textiles/Food Processing),2023-08-05,188346.92,20.82,12,182,0.237,612,0
+1febc9af-b2a8-4456-884b-fa8ce3593ee9,Tsehay Assefa,Harari,Trade/Retail (Market Vendors/Suq),2025-11-22,219511.19,19.04,24,385,0.239,850,0
+e92fd9fd-30af-4613-9dc4-f583038ef7af,Eden Eskinder,South Ethiopia,Services (Transport/Tourism),2024-09-26,292261.09,12.4,36,233,0.311,671,0
+88c982ec-b3dd-4cfb-accb-6ae1b6d331ca,Eskinder Samuel,Amhara,Livestock,2023-01-17,147730.22,19.34,36,210,0.277,820,0
+a942b4d7-bd2d-4fff-be85-544c3e859c67,Tirhas Dejen,Tigray,Livestock,2024-06-25,335964.48,23.82,24,226,0.148,668,0
+9b7cd539-0ad7-477c-9bf4-1cc6af1fbe16,Betelhem Lencho,Amhara,Agriculture (Smallholder Farming),2025-04-05,344975.81,26.33,18,138,0.491,580,1
+ee20a0b5-acad-4c07-ab24-ef63f6f32192,Alemu Birhanu,Sidama,Trade/Retail (Market Vendors/Suq),2024-12-02,183396.18,24.4,18,357,0.233,583,0
+133b385e-2cc0-4f87-b99e-1823e75f58ba,Berhanu Ephrem,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2025-03-29,371171.73,19.29,24,237,0.278,746,0
+5a71504b-8380-4397-a221-2e52d6e38103,Tsegaye Fikre,Harari,Manufacturing (Textiles/Food Processing),2024-07-29,92168.29,25.39,12,413,0.152,632,0
+2ba4d656-610c-4ade-bed9-9a6b6c3786c2,Worku Haile,Gambela,Livestock,2023-03-26,294918.43,27.45,24,184,0.349,610,1
+e9fedd48-5684-4457-9cfc-df01f8401eea,Gemechu Eyob,Oromia,Agriculture (Smallholder Farming),2024-08-07,123216.02,25.25,24,105,0.434,592,1
+d9cc8656-8a03-4e43-94ec-05953ff09d13,Feven Yohannes,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-11-25,103278.95,21.44,24,345,0.18,463,0
+4b25c483-7bae-4f3b-8c96-edc24a41aed8,Mikael Worku,Tigray,Livestock,2023-07-08,16602.45,20.35,18,389,0.16,596,0
+a194c7b1-bcef-40f8-8092-6d61368b7d68,Yonas Mulugeta,Addis Ababa,Trade/Retail (Market Vendors/Suq),2024-02-21,61422.28,20.12,36,459,0.225,788,1
+4e08ab81-ec4d-4c00-b7ab-aaf864c46086,Rahel Dawit,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2025-06-07,186283.23,20.31,24,187,0.35,773,0
+0911e215-e4b7-4864-9362-dea783f9b580,Tsegaye Berhanu,Benishangul-Gumuz,Construction,2025-09-30,179494.92,18.68,18,149,0.342,549,0
+7cff07e3-d92d-4519-9e24-c724e47a7b03,Alemu Dejen,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2024-12-25,97427.19,17.75,6,227,0.257,734,0
+75d9c07c-9d93-43ea-8182-144d5b120b1b,Jemal Birhanu,Gambela,Services (Transport/Tourism),2023-04-05,316779.09,17.83,36,240,0.378,433,0
+0151ccb0-1b6f-4a9e-9a98-b7154c60b543,Girma Eyob,Afar,Digital/Tech (Mobile Money Agents),2024-05-30,335860.32,23.68,36,151,0.34,585,0
+66edef30-2fa8-4808-b8f1-6861e3e3e73b,Meron Dejen,South West Ethiopia,Services (Transport/Tourism),2024-07-02,346112.97,20.06,6,140,0.329,714,0
+7df6bc1d-6e49-48ac-99f1-45cc0244e4d7,Tirhas Amanuel,Harari,Trade/Retail (Market Vendors/Suq),2024-07-09,120978.73,21.21,24,243,0.122,780,0
+e604bfbe-83aa-422f-8772-df4a15b1c4a6,Abebe Elias,Gambela,Livestock,2023-11-08,26706.56,22.81,36,223,0.286,578,0
+7cc70b17-e9c1-44ce-9fb4-26c06924e248,Robel Ephrem,Tigray,Livestock,2023-09-01,85750.84,18.65,18,197,0.169,755,0
+4008d4da-a819-413d-84fa-84a427d764ce,Alemu Tsegaye,South West Ethiopia,Digital/Tech (Mobile Money Agents),2023-01-16,246741.18,12.36,6,209,0.369,549,0
+4c9df049-5fd2-4ec3-a536-3c77787fb578,Betelhem Elias,South Ethiopia,Services (Transport/Tourism),2023-12-23,235896.26,19.47,36,136,0.287,584,0
+89534e15-2ea3-4b78-a466-c9376da7c95b,Hakim Gemechu,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-07-25,39384.21,27.15,24,83,0.367,566,0
+a801f15e-7046-425d-bd47-4d951bd36f41,Hagos Fitsum,Addis Ababa,Digital/Tech (Mobile Money Agents),2024-02-28,46215.19,24.65,6,498,0.114,676,0
+bf415c98-5a8e-4f05-a3ce-cf1e296df91f,Mahlet Tsegaye,Tigray,Construction,2024-11-18,72450.01,12.12,24,191,0.176,659,0
+deda028b-e232-4dc9-9bf6-f06d017cc74e,Hakim Tadesse,Central Ethiopia,Services (Transport/Tourism),2024-11-10,39995.15,15.28,12,200,0.229,649,0
+0a4e3ccf-48ef-40ff-b087-77b41c54956f,Elias Habtamu,Tigray,Livestock,2023-11-10,207555.99,12.52,12,223,0.112,699,0
+54ca6897-be71-4d60-abca-4f866500f793,Betelhem Adane,Afar,Agriculture (Smallholder Farming),2023-08-01,298424.95,21.68,18,111,0.378,587,1
+f2c8c25e-32f1-427c-aa8c-662d290a3d67,Fitsum Sisay,Harari,Construction,2023-02-24,151876.56,23.78,36,319,0.192,711,0
+440b71a6-fba1-4732-aa4d-5bb8f5aed2e9,Habtamu Zewdu,Central Ethiopia,Livestock,2025-01-19,369201.51,20.56,12,462,0.192,688,0
+7edd8483-8cd4-47bc-bd33-8ca26bcce72a,Yosef Mesfin,South Ethiopia,Digital/Tech (Mobile Money Agents),2023-07-09,188588.48,14.04,18,105,0.289,600,0
+c0476d80-532b-470a-a09f-839fb6ddbd11,Kebede Robel,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-11-30,228897.45,17.4,24,87,0.231,558,0
+bdecb67a-ec6e-4294-b9da-c7798079cdc9,Tigist Amanuel,Gambela,Services (Transport/Tourism),2024-09-18,306724.1,19.77,36,184,0.252,565,0
+1b9dff1b-f52a-4cbf-9c17-729f21a496a8,Yonas Solomon,Harari,Livestock,2024-09-01,63645.32,27.97,18,253,0.109,496,0
+80000fac-5818-48c5-a7d1-99902049a289,Abera Sisay,Somali,Construction,2023-02-07,127246.45,21.14,12,124,0.244,534,0
+0d527b89-3c8b-466c-af37-4e8cc4735700,Worku Yosef,Addis Ababa,Agriculture (Smallholder Farming),2023-01-27,240623.61,23.45,12,118,0.478,596,1
+f9f7e004-6dfe-4745-9796-8d64d4701dd2,Mignot Sisay,Gambela,Trade/Retail (Market Vendors/Suq),2025-11-24,161473.34,20.05,6,201,0.343,732,1
+7aededf4-6f30-4743-820e-2e6abcc8509b,Betelhem Sisay,Somali,Trade/Retail (Market Vendors/Suq),2025-07-21,178344.19,17.32,6,118,0.286,453,0
+c2ca55ed-1526-4fef-bc65-dbfb483fca72,Haile Mikael,South West Ethiopia,Livestock,2024-03-30,73510.16,12.68,12,180,0.309,457,0
+bab008df-2709-45b2-9e1b-e56d3f6c5de5,Nardos Getachew,Sidama,Services (Transport/Tourism),2024-11-02,281178.47,23.86,12,389,0.147,803,0
+c44842af-47f8-46f1-bfdd-0e2b2fd6129a,Dawit Mikael,Harari,Manufacturing (Textiles/Food Processing),2025-03-10,186562.92,24.69,36,340,0.238,758,0
+b371d64d-fe87-417b-8376-bff9dd3a0936,Birhanu Fikre,Afar,Services (Transport/Tourism),2023-07-03,376295.21,21.28,36,83,0.258,742,1
+32cb28ba-6ddd-4c02-9213-7565aa94a1d4,Rahel Yosef,Harari,Agriculture (Smallholder Farming),2024-01-25,263844.56,14.84,12,48,0.31,448,1
+1a6275f5-cf59-4b8e-8860-22c4b4da9f04,Habtamu Solomon,Dire Dawa,Trade/Retail (Market Vendors/Suq),2025-01-11,204871.4,23.95,36,374,0.201,598,0
+2e625a6f-9c71-4439-8098-f50dbaff361a,Feven Elias,Gambela,Manufacturing (Textiles/Food Processing),2025-12-30,230507.32,20.06,12,127,0.253,597,0
+a1001bc8-9758-425f-9ad8-e2dafe17ddb3,Frehiwot Fitsum,South West Ethiopia,Services (Transport/Tourism),2023-10-26,348264.75,25.58,24,108,0.302,509,0
+21de2360-1ed6-4b71-bab8-ec3f2612e9e5,Girma Habtamu,Oromia,Livestock,2025-09-17,278474.71,16.36,6,422,0.25,677,0
+31328995-fd8a-4696-861b-cbc309d261e0,Yordanos Kaleb,Amhara,Manufacturing (Textiles/Food Processing),2024-09-20,48975.39,26.1,6,254,0.155,652,0
+331bd602-9dd0-4e04-8485-742a6d22313c,Bezawit Tadesse,Afar,Services (Transport/Tourism),2023-08-21,152858.23,22.33,12,103,0.372,723,0
+6844a0e3-615e-4a80-8d0b-6920dd460c91,Kebede Mikael,Afar,Trade/Retail (Market Vendors/Suq),2023-05-27,159711.23,19.55,36,149,0.359,698,0
+fae96dd3-a220-4a31-b33d-9c7c4e733dcc,Tewodros Lencho,South Ethiopia,Agriculture (Smallholder Farming),2025-03-31,17876.02,14.54,36,109,0.428,622,1
+7aac8a0a-6d13-4ea8-960f-c07138c6430f,Fikerte Eyob,Gambela,Digital/Tech (Mobile Money Agents),2023-12-31,65890.91,19.13,6,133,0.277,709,0
+0d394b57-a4d4-4f15-ad54-a50182866d40,Konjit Bereket,Central Ethiopia,Services (Transport/Tourism),2023-04-11,312585.96,13.34,6,295,0.26,837,0
+47d28391-5d13-439c-84ed-4fd51c2c8fb1,Marta Solomon,Somali,Manufacturing (Textiles/Food Processing),2024-04-22,64615.3,22.73,36,156,0.258,567,0
+51e11799-3f39-462d-ab06-e92fb62a7941,Tariku Tadesse,Benishangul-Gumuz,Services (Transport/Tourism),2024-07-04,69128.15,13.47,18,229,0.258,629,0
+0d586ee2-0023-4f70-8a77-b5cc2e874651,Ephrem Yohannes,Afar,Agriculture (Smallholder Farming),2023-03-20,21325.56,21.88,6,68,0.328,615,1
+490a886c-3644-4939-9256-f928bea83e9f,Habtamu Ermias,Oromia,Manufacturing (Textiles/Food Processing),2025-10-27,20922.07,26.91,18,490,0.194,657,0
+19cb84c8-9b45-43bc-a892-464d47b885fa,Yordanos Mesfin,Oromia,Manufacturing (Textiles/Food Processing),2025-01-08,39971.29,18.29,36,395,0.221,438,0
+7dc4f12b-f2c5-42da-8094-4f952f51aca6,Hirut Tesfaye,Addis Ababa,Digital/Tech (Mobile Money Agents),2024-11-05,56471.25,15.92,36,317,0.118,636,0
+18cd99c9-1c8d-43b4-8dea-5200559383cf,Sara Tsegaye,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-07-23,242195.61,17.48,24,248,0.256,534,0
+c53d1af9-8d40-4eb2-aed6-90cc037f5347,Girma Mulugeta,Sidama,Agriculture (Smallholder Farming),2025-11-10,166056.73,21.49,24,114,0.398,614,0
+cf5e7840-bdc5-41bb-9c4e-3b0054ca4adc,Solomon Ermias,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-07-27,271104.44,12.43,6,143,0.393,667,1
+87638104-96c2-4045-875f-fb36be30cae9,Hakim Haile,South Ethiopia,Construction,2024-07-20,354294.21,13.12,12,130,0.287,489,0
+46a47588-a676-4ce1-bcfe-18e95f20ac06,Zewdu Worku,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-08-02,308518.56,23.91,24,149,0.365,650,0
+e31f2212-1654-483f-a251-0f01959677e9,Tsegaye Habtamu,Dire Dawa,Trade/Retail (Market Vendors/Suq),2023-11-28,358812.04,12.91,36,450,0.207,620,0
+9a11ddf4-be1a-45c9-a12a-c11c21677dca,Tsion Eyob,Afar,Construction,2023-06-20,210273.61,21.75,6,123,0.251,683,0
+e9846baa-f7e4-4c8c-9628-e4290a81870a,Natnael Amanuel,South Ethiopia,Manufacturing (Textiles/Food Processing),2023-07-11,192637.37,25.73,12,83,0.275,562,0
+b46499f4-3163-4274-b0c0-41a9d141b9e4,Selamawit Eskinder,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2025-10-18,20719.23,16.38,6,95,0.263,656,1
+f11afc00-132b-4f36-9940-4d24eced9c30,Blen Gemechu,South Ethiopia,Construction,2024-11-28,392827.68,23.38,24,196,0.287,698,0
+b9b094ac-4d2d-4efd-97c8-294c9e7776ae,Yosef Dawit,Addis Ababa,Digital/Tech (Mobile Money Agents),2025-05-04,375962.36,13.82,36,472,0.227,672,0
+88973a4a-33b6-46dc-82d0-1c42fd595978,Mulugeta Abera,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-01-11,275416.39,15.96,6,191,0.208,587,0
+6b0ffa79-3113-413a-a0b9-98300b373468,Ephrem Girma,South West Ethiopia,Construction,2023-09-01,182192.29,20.47,12,140,0.292,409,1
+e0880267-e43f-45c8-80a5-82f7b62b9f62,Mahlet Adane,South Ethiopia,Livestock,2025-05-10,71996.39,12.76,36,216,0.251,738,0
+5db2f6ce-e519-4530-98eb-3e59f9a1de3f,Meskerem Yosef,Addis Ababa,Manufacturing (Textiles/Food Processing),2025-05-25,76006.56,13.74,6,457,0.235,693,0
+e92d6961-1e0f-429b-b7a2-ab33a13ecf15,Kidist Worku,Tigray,Agriculture (Smallholder Farming),2024-12-02,288584.01,17.23,36,148,0.358,477,1
+861550f6-6b43-4b40-bb9a-21c41155581f,Hirut Fikre,Addis Ababa,Agriculture (Smallholder Farming),2024-11-13,55893.84,14.81,6,171,0.455,531,1
+99622263-2abc-42b1-8599-97f6ca77736e,Fikre Ermias,Dire Dawa,Agriculture (Smallholder Farming),2025-02-26,272671.45,18.78,12,154,0.402,586,1
+4a26eb59-2101-4598-b7ad-3965b25b56dc,Assefa Solomon,Central Ethiopia,Agriculture (Smallholder Farming),2024-03-06,391869.76,13.18,36,134,0.357,479,1
+cb5d2aff-0f90-47d5-90f0-d47cf4af8005,Leulit Kebede,South West Ethiopia,Digital/Tech (Mobile Money Agents),2023-03-17,157695.48,25.09,18,118,0.366,620,0
+65c227c0-d085-449d-bd9f-82d730b05a0b,Bereket Abera,South West Ethiopia,Livestock,2025-12-18,258390.6,20.35,6,97,0.289,594,0
+8373edf3-dec9-4438-884f-f1a7af481fc0,Blen Zewdu,Gambela,Manufacturing (Textiles/Food Processing),2025-02-12,166473.78,24.73,6,194,0.342,607,0
+82601132-c02f-424f-b010-0d7e2a5f66e4,Bezawit Alemu,South Ethiopia,Services (Transport/Tourism),2023-05-02,344542.37,12.93,24,190,0.304,712,0
+669e098d-63e7-4896-8784-ef4b8fffe845,Berhanu Tesfaye,Oromia,Trade/Retail (Market Vendors/Suq),2024-08-24,48067.9,15.85,18,188,0.173,629,0
+00ebf725-2f1e-48dc-b4f9-02b74580a4ae,Sisay Tsegaye,Afar,Trade/Retail (Market Vendors/Suq),2025-08-06,333668.03,26.28,12,211,0.25,672,0
+b25c5b50-9794-4389-b7c2-3f279267e7e6,Selamawit Kebede,Gambela,Trade/Retail (Market Vendors/Suq),2023-09-11,190855.38,13.66,6,215,0.293,717,0
+834693d1-ca67-4562-adba-84d1e1104d91,Birhanu Abera,South Ethiopia,Services (Transport/Tourism),2023-01-19,181076.89,12.28,12,199,0.379,443,1
+866b329a-b877-4049-b52f-5e0d80fa3363,Aberash Natnael,Gambela,Services (Transport/Tourism),2024-12-13,382300.77,14.49,12,136,0.25,538,0
+4bde7d88-3867-462d-9a3b-ce8e4dac49f6,Sara Dawit,Benishangul-Gumuz,Agriculture (Smallholder Farming),2024-02-12,321698.57,16.34,12,64,0.307,419,0
+395370c0-2bcd-4e43-9e7d-8f7b8d59c34d,Bekele Sisay,Central Ethiopia,Agriculture (Smallholder Farming),2024-02-27,305560.05,22.26,36,69,0.485,500,1
+0a01d8b6-4ab6-4e0f-bcfb-c6428897c497,Bereket Eyob,South West Ethiopia,Construction,2023-03-17,322061.71,22.27,18,168,0.327,626,0
+471b0cc7-e233-4597-b129-ed2f25ec77e4,Meklit Hakim,Dire Dawa,Agriculture (Smallholder Farming),2025-09-25,191741.37,22.19,6,158,0.36,603,0
+0d3069bf-ca66-48a8-9f96-048a453b37f5,Tesfaye Abera,Gambela,Manufacturing (Textiles/Food Processing),2023-07-31,101200.86,13.28,6,93,0.22,439,1
+d2cb03eb-fd52-4fad-bfbe-fe33fae2d4a8,Assefa Kebede,Harari,Agriculture (Smallholder Farming),2025-09-29,303401.28,18.0,6,62,0.397,733,0
+a60da1aa-005b-4f73-9dbe-4a3c88db3692,Natnael Tadesse,Sidama,Construction,2023-11-28,148894.27,27.42,24,215,0.269,837,0
+5e7e00e5-f8e3-41ea-9aeb-bc3ea1f78157,Abebe Elias,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2024-06-28,299416.11,23.14,18,82,0.363,701,0
+e24cee91-b499-4393-b249-1816154f9eb4,Tsion Robel,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-05-24,282077.58,23.06,18,339,0.159,690,0
+688928ad-2234-4eac-b8da-35594398018f,Kaleb Elias,Afar,Trade/Retail (Market Vendors/Suq),2025-05-08,95233.9,22.01,24,187,0.283,598,0
+0ea8d0ee-fc3a-456a-931b-49d84b7e42df,Hirut Abebe,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-08-12,99044.87,18.11,6,350,0.218,687,0
+5b00f1a0-d2ed-4196-82aa-1c76d0e04655,Roman Tewodros,South Ethiopia,Livestock,2025-09-04,373177.66,25.61,12,159,0.231,634,0
+2d3e854b-4799-404b-b719-25aebb0084fa,Abera Fikre,Central Ethiopia,Digital/Tech (Mobile Money Agents),2023-12-12,18439.34,15.73,24,222,0.236,808,0
+a845f723-8992-4e2d-8400-e249f8bb1616,Tirhas Habtamu,Afar,Services (Transport/Tourism),2024-02-07,300998.7,12.81,6,112,0.363,629,0
+b0285484-beea-44d3-b8fc-75131b3fd4b0,Hakim Addis,Addis Ababa,Digital/Tech (Mobile Money Agents),2025-06-30,261272.38,14.7,24,394,0.276,600,0
+deba0297-41e1-4f65-a761-0e80f216880d,Zewditu Sisay,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-08-21,375532.2,21.38,12,113,0.332,725,0
+34c6d620-8d06-43e2-9ab6-2311a261d918,Yosef Addis,Gambela,Livestock,2025-09-04,22922.05,16.29,36,193,0.295,621,0
+343402ef-44cf-46ba-9302-e6e2387bccda,Hiwot Gemechu,Harari,Manufacturing (Textiles/Food Processing),2024-11-22,163528.73,16.36,6,261,0.101,749,0
+c0bde748-dbb4-44a3-8ec7-9642a13a9da2,Yonas Dawit,Addis Ababa,Manufacturing (Textiles/Food Processing),2025-06-27,164065.81,21.03,6,441,0.141,850,0
+bad4f3e0-3b52-4525-b230-b85b27d81ea0,Kidist Kebede,Afar,Trade/Retail (Market Vendors/Suq),2024-09-11,368094.79,18.1,18,149,0.342,670,0
+7aa03208-e6f4-4dcf-a5f9-3ab95e5f310c,Helen Kaleb,South Ethiopia,Manufacturing (Textiles/Food Processing),2024-11-10,165367.29,17.11,24,220,0.362,588,0
+2f5dff13-759a-4725-ae77-abe37ef74fdb,Kebede Solomon,Central Ethiopia,Livestock,2023-05-31,166641.62,14.99,24,309,0.212,655,0
+f17fb786-7d92-4cc0-91d5-1b0630591fbc,Aster Samuel,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2023-10-06,25802.61,22.5,12,84,0.355,679,0
+4f66a914-0563-4b30-8834-0d51a5c6c5ae,Bezawit Elias,Tigray,Agriculture (Smallholder Farming),2023-10-13,88198.71,26.22,6,65,0.364,576,0
+64ea1dd3-d147-40bf-ad7f-fe23e29ff19c,Mahlet Worku,Oromia,Agriculture (Smallholder Farming),2023-09-16,100260.29,16.03,36,77,0.393,505,1
+24bde1a8-11c7-4ec9-b016-cecc9b9a3a55,Lencho Ermias,Amhara,Services (Transport/Tourism),2025-12-08,325348.61,26.72,12,352,0.177,787,0
+e8bcd007-747c-4690-bec8-f48e6d283989,Leulit Tsegaye,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2023-04-27,216498.32,22.95,6,215,0.32,620,0
+b96c2da0-19a8-4c19-a70a-858cf86b2e95,Tirhas Abebe,Gambela,Manufacturing (Textiles/Food Processing),2025-10-04,86352.29,26.92,18,84,0.26,508,0
+ced89c97-c01d-4c62-ba0d-3f1f232585b4,Berhanu Yohannes,Afar,Agriculture (Smallholder Farming),2025-04-03,133936.31,16.96,12,134,0.45,660,1
+624d3473-60bc-4cbc-9987-e6d09a7171aa,Eden Tewodros,Afar,Trade/Retail (Market Vendors/Suq),2023-01-24,129875.36,23.07,6,110,0.34,568,0
+c3712e42-0378-45da-9399-956c1c2b498f,Kaleb Yosef,South Ethiopia,Digital/Tech (Mobile Money Agents),2023-02-07,198298.82,17.69,24,81,0.272,496,0
+3f936724-21d6-4c73-8b32-8c23ef470a44,Birhanu Kebede,Dire Dawa,Construction,2025-10-03,286662.39,26.96,36,377,0.202,604,0
+a09c4325-f047-4beb-a483-c45844852295,Natnael Habtamu,Addis Ababa,Construction,2023-05-15,347145.99,16.57,12,233,0.211,675,0
+0267c983-f763-4b4d-8ada-c12203748864,Solomon Solomon,South West Ethiopia,Services (Transport/Tourism),2025-07-25,292636.7,19.13,6,83,0.23,592,0
+56a0b8b4-d179-4ee0-bc73-1d478ad8c568,Dagmawit Fikre,Dire Dawa,Livestock,2023-06-20,210565.88,21.55,24,230,0.182,627,0
+c279d913-7afd-4923-a3a4-957133cb59ef,Konjit Bekele,Gambela,Agriculture (Smallholder Farming),2023-05-17,131452.14,19.01,6,139,0.372,407,0
+29c3d598-d0c2-4f21-b1bf-5c97e473b0b0,Robel Samuel,Somali,Construction,2025-05-29,395576.06,20.01,36,93,0.251,710,0
+3e6a41f1-278e-4f60-ba99-bd7654edfb70,Mignot Alemu,Somali,Services (Transport/Tourism),2024-04-27,18504.65,22.87,24,214,0.308,640,0
+a0a2e9bd-4478-49c0-b129-9cb78b248c7e,Selamawit Bereket,Dire Dawa,Agriculture (Smallholder Farming),2023-04-02,153865.0,16.7,12,152,0.466,637,1
+0b660bcd-d32e-4757-856d-e1951f81e097,Bruktait Habtamu,South Ethiopia,Agriculture (Smallholder Farming),2025-04-29,255654.64,23.85,6,160,0.467,494,0
+82f47196-1a41-457f-8bf7-0dc68b6daa25,Bruktait Amanuel,Addis Ababa,Manufacturing (Textiles/Food Processing),2023-06-14,208345.39,13.32,12,419,0.232,730,0
+396c8f79-e983-462e-804f-5362244f4ce3,Fitsum Hagos,Harari,Agriculture (Smallholder Farming),2024-10-12,81422.79,21.7,24,67,0.342,708,0
+25ba7795-62a8-46d7-ad58-bf633a0761d9,Yosef Mesfin,Tigray,Trade/Retail (Market Vendors/Suq),2023-02-12,291698.69,25.04,12,283,0.254,647,0
+ebf3ef99-39d3-4f2b-896e-c0c9a7c5f960,Yordanos Mesfin,Harari,Livestock,2024-07-07,277977.78,19.98,6,454,0.134,453,0
+b7007ce3-e25c-4f9c-afcf-ea4d627e91e1,Liya Yohannes,Harari,Manufacturing (Textiles/Food Processing),2025-12-04,162114.93,24.96,36,234,0.173,567,0
+1c31d9b9-fda2-49a0-ab68-38e37de7f41a,Eyob Gemechu,Oromia,Agriculture (Smallholder Farming),2023-06-29,376054.12,22.6,36,133,0.469,499,1
+4824faf3-f4b2-4643-b4da-fcc81a0b6310,Leulit Yohannes,Addis Ababa,Trade/Retail (Market Vendors/Suq),2023-12-20,196693.86,14.98,18,330,0.153,701,0
+1e4c3fdf-556e-4ce4-9d9e-4da21387bcda,Eskinder Hakim,Afar,Trade/Retail (Market Vendors/Suq),2024-07-14,292539.57,19.44,6,180,0.234,584,0
+15b5bc25-eb7c-4628-acb9-48f7ec5eac70,Lemlem Lencho,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-07-19,190890.47,21.75,36,170,0.221,611,0
+6dba9754-2d95-498d-a6ae-af299ac0ee26,Almaz Lencho,Harari,Agriculture (Smallholder Farming),2023-03-14,60871.39,24.76,24,153,0.442,716,0
+adef5777-2e6d-47e8-9980-236855b85720,Feven Ermias,Sidama,Construction,2025-04-09,44117.05,22.49,6,305,0.264,645,0
+afe9c3dc-aad2-4db6-a4a3-5a102674d1ff,Tsehay Amanuel,Afar,Agriculture (Smallholder Farming),2024-10-27,361900.11,16.55,18,54,0.431,796,1
+592fcdc6-4979-4220-914b-c7719ff0287a,Kidist Kebede,Gambela,Agriculture (Smallholder Farming),2024-04-18,172157.67,16.8,6,162,0.31,645,0
+a9673fe1-7fce-4629-aa8e-55a545665e79,Natnael Yonas,Addis Ababa,Livestock,2023-06-16,271583.04,22.3,36,312,0.144,475,0
+e830257d-cf8b-4eb2-83f1-5176eed15809,Gemechu Eskinder,South Ethiopia,Construction,2024-08-01,49753.44,13.0,6,238,0.276,605,0
+eedf4f78-dc99-4976-808e-c990c9f279a8,Girma Tadesse,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2023-05-04,95572.1,24.77,18,208,0.254,511,0
+51fc4c23-2586-4cd1-a7e6-0e4ec71cdac2,Dawit Kaleb,Dire Dawa,Construction,2023-08-24,210843.14,17.15,24,487,0.128,775,0
+cbfe68f0-b8a9-4704-b25a-a10d63fe557c,Dawit Dejen,Tigray,Trade/Retail (Market Vendors/Suq),2023-08-23,232515.61,26.05,6,255,0.135,697,0
+93ed82c5-1cf8-4164-913b-776ed08ce31e,Ephrem Mesfin,South Ethiopia,Services (Transport/Tourism),2025-01-18,190698.27,22.56,36,179,0.347,469,0
+2508f357-474a-4674-ba09-8484f5a7620d,Meskerem Fikre,Amhara,Construction,2024-10-31,224855.93,13.77,36,348,0.152,623,0
+2e8f2f7f-20a6-4edf-bea9-5b7352b3a0d1,Solomon Dawit,Central Ethiopia,Agriculture (Smallholder Farming),2023-05-26,53374.46,12.51,6,110,0.431,713,0
+6c80423a-7e84-40d7-91be-adc15a449143,Yordanos Kebede,Harari,Digital/Tech (Mobile Money Agents),2024-08-26,267550.71,13.83,36,397,0.152,592,0
+9a0bd63d-69f8-41b0-b90c-9f84b184071c,Dejen Mesfin,Amhara,Digital/Tech (Mobile Money Agents),2025-01-22,143110.6,27.47,18,344,0.207,606,0
+f1abf7a0-cd59-4b8c-a362-7835555df8c6,Tadesse Worku,South West Ethiopia,Agriculture (Smallholder Farming),2025-09-20,91920.64,24.54,24,166,0.437,615,1
+6b2d470a-6218-4d10-bef3-d5beebee4c80,Tadesse Hagos,Sidama,Services (Transport/Tourism),2025-10-17,229795.55,23.77,36,434,0.149,757,0
+7e1b2034-88a5-416f-89eb-56c17f421889,Abeba Abera,Afar,Manufacturing (Textiles/Food Processing),2025-05-08,130457.43,20.74,6,233,0.332,716,0
+6276ee87-3ae8-48f8-9247-8bb2894539ec,Tewodros Ephrem,Addis Ababa,Trade/Retail (Market Vendors/Suq),2025-04-12,324146.21,23.7,18,329,0.183,768,0
+86e5edf4-6bfd-4189-b705-10f894ba0d7c,Meron Ermias,South West Ethiopia,Manufacturing (Textiles/Food Processing),2023-05-15,351727.08,26.14,24,116,0.237,480,1
+bf8f81ea-cfb0-468d-b189-25a6c6cec51b,Addis Berhanu,Addis Ababa,Manufacturing (Textiles/Food Processing),2025-06-21,391269.99,22.85,12,211,0.173,675,0
+5c98fd57-3c35-4ce2-9656-07c0b3fdec76,Dagmawit Yonas,Gambela,Livestock,2023-12-12,47469.63,25.35,18,246,0.34,364,0
+04643f52-d9c0-49f6-be70-9416340a22d7,Mesfin Lencho,South Ethiopia,Agriculture (Smallholder Farming),2023-01-10,359962.2,16.62,12,65,0.35,511,1
+2233212a-f526-4ea2-b953-3cb78ef1a114,Liya Assefa,Addis Ababa,Livestock,2024-07-21,65885.44,12.42,12,406,0.143,597,0
+5c613985-596e-471c-a94f-03ec0f4076a2,Kaleb Tsegaye,Tigray,Services (Transport/Tourism),2023-06-26,294350.28,16.03,24,272,0.171,522,0
+d5d318cf-24e6-4ffd-b5dc-037d4b71481f,Girma Eyob,Central Ethiopia,Services (Transport/Tourism),2023-08-10,52753.74,19.84,24,450,0.168,762,0
+6bcbb347-e9b7-48ee-ae6c-69f7f8c92b4a,Addis Eyob,Oromia,Digital/Tech (Mobile Money Agents),2025-05-11,222257.39,12.52,18,203,0.211,684,0
+0e4d364e-397e-4bfb-93ec-214935f2e254,Yordanos Tadesse,Addis Ababa,Manufacturing (Textiles/Food Processing),2024-01-17,277161.68,15.16,24,285,0.247,744,0
+b436e8fb-b21e-4fab-b649-09e81e032a65,Fitsum Eskinder,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2023-08-08,366777.91,17.13,36,385,0.248,748,0
+b2351615-06be-4b4a-bbab-3b0e60a1451d,Samuel Haile,Afar,Trade/Retail (Market Vendors/Suq),2023-08-16,317701.1,26.88,36,190,0.239,629,0
+1b2375d0-b38f-40f2-8dd8-67e55f26b2a6,Lemlem Tesfaye,Gambela,Construction,2024-10-26,79122.12,22.92,6,147,0.305,576,0
+d66248bf-7a11-4e56-92e2-9c2a94e4339d,Askale Tariku,Amhara,Trade/Retail (Market Vendors/Suq),2025-10-31,212945.16,25.64,6,351,0.227,662,0
+259a5d6c-07ba-408b-a87e-09f1ded7945e,Abera Dawit,Central Ethiopia,Livestock,2025-07-16,126486.75,13.91,6,448,0.174,478,0
+13ba8d24-3ebb-427c-9438-e799242ac30f,Mesfin Natnael,Sidama,Manufacturing (Textiles/Food Processing),2024-07-26,27275.22,21.42,6,347,0.199,803,0
+6a9f687a-d04f-4197-94c0-df2891b5fcb4,Tsion Abera,South West Ethiopia,Agriculture (Smallholder Farming),2023-01-25,166680.63,13.13,18,89,0.454,556,1
+be59d035-7842-4071-aeb3-5f6ac3f26a39,Marta Addis,Addis Ababa,Construction,2023-08-26,291983.43,18.29,24,436,0.139,745,0
+f2e2503a-b2d5-45d1-8706-f724bf83f2d4,Roman Fitsum,Central Ethiopia,Services (Transport/Tourism),2023-08-11,369851.04,18.02,18,261,0.191,536,0
+565bb785-b8f9-45fc-a959-8983785e02ee,Alemu Fitsum,Tigray,Agriculture (Smallholder Farming),2024-04-15,302902.85,17.43,12,174,0.386,718,1
+0361b157-b1fb-4587-a514-b3fcc809a0b4,Mesfin Eskinder,Tigray,Manufacturing (Textiles/Food Processing),2024-11-25,367940.29,22.67,12,413,0.185,731,0
+e19383a9-0f5c-465a-a7e8-3b871c7bf8eb,Tesfaye Fitsum,Afar,Trade/Retail (Market Vendors/Suq),2024-03-26,33638.04,13.53,12,203,0.226,728,0
+2c6fc084-c04a-4f68-9aab-1efb0838f528,Adane Yonas,Somali,Manufacturing (Textiles/Food Processing),2025-09-30,132102.44,18.15,24,235,0.366,647,0
+d52a85c8-6579-4c22-82c8-37b6290c9e51,Mignot Ermias,Afar,Agriculture (Smallholder Farming),2025-02-25,114053.48,13.87,18,80,0.303,527,1
+744cc6ae-e03f-4f2c-b2bf-fc3fae0e289b,Dagmawit Gemechu,Benishangul-Gumuz,Livestock,2024-10-25,225198.12,13.02,36,183,0.242,646,0
+eb4d6df5-420f-49a8-945b-4e9bb61ec0ed,Yohannes Yonas,Afar,Agriculture (Smallholder Farming),2025-05-15,250158.02,20.81,24,42,0.35,482,1
+3a314e67-b598-4577-8e58-3dde807ab658,Eyob Abebe,Afar,Construction,2025-06-12,98319.64,26.36,24,225,0.377,666,0
+f91e8b9b-4596-4e76-a824-162dee7385d8,Berhanu Zewdu,Afar,Construction,2024-10-25,260669.34,12.53,24,148,0.379,629,0
+f37985df-fa59-407b-a0a7-ca57858117a1,Tesfaye Ermias,Oromia,Agriculture (Smallholder Farming),2023-05-28,108606.12,18.27,6,155,0.429,402,1
+9e79a6fe-6680-45e3-b63c-bc32be3e1402,Eskinder Solomon,Gambela,Trade/Retail (Market Vendors/Suq),2023-07-19,140434.01,17.46,24,90,0.373,580,0
+d28faf65-2f06-4e12-a46d-2e33380a402d,Yohannes Gemechu,Sidama,Trade/Retail (Market Vendors/Suq),2023-04-02,87930.16,24.98,12,274,0.128,613,0
+d109ffe5-13c3-4c1b-977a-80b89ae6befe,Genet Abera,Benishangul-Gumuz,Manufacturing (Textiles/Food Processing),2025-05-23,353335.8,14.11,36,137,0.24,420,0
+a7175804-502d-4281-ba37-f3d677eb6d89,Aster Girma,Benishangul-Gumuz,Livestock,2025-12-16,231803.9,19.23,24,190,0.29,558,0
+2a31edfd-6166-4c7c-93c6-e5a067b4a019,Worku Hagos,Sidama,Agriculture (Smallholder Farming),2025-09-29,30832.5,21.73,24,123,0.443,707,1
+6c99ce56-a58a-4bb5-9f19-30e0cda7a451,Samuel Yosef,South Ethiopia,Digital/Tech (Mobile Money Agents),2023-03-31,288053.94,26.97,36,163,0.23,630,0
+13eb4358-1ab9-4662-9bc0-2912451972c4,Amanuel Haile,Amhara,Trade/Retail (Market Vendors/Suq),2023-11-04,234110.41,13.34,24,260,0.149,723,0
+55e17880-d8bb-42b7-875f-41dc9a6aabb1,Genet Worku,Tigray,Agriculture (Smallholder Farming),2024-07-22,110637.12,13.17,12,70,0.446,516,0
+8aa431e9-29aa-4a7e-883e-b6a13d51d528,Samuel Elias,Addis Ababa,Services (Transport/Tourism),2023-02-18,59789.99,24.84,36,399,0.202,668,0
+02cf63a8-98dc-4031-b63f-bae910b8c1c5,Meskerem Jemal,Harari,Manufacturing (Textiles/Food Processing),2023-06-20,377156.01,26.27,18,267,0.204,650,0
+a36d7567-33a4-4f40-8d3b-a57f300ffa68,Bekele Elias,Benishangul-Gumuz,Services (Transport/Tourism),2024-04-30,152600.44,12.73,12,230,0.314,691,0
+fa069889-15c5-4392-84e8-31e13d869ad2,Sara Addis,South Ethiopia,Agriculture (Smallholder Farming),2023-02-25,68428.35,19.11,36,179,0.335,464,1
+fc8ade6a-9051-485e-8b7c-e5c690968629,Jemal Amanuel,Harari,Services (Transport/Tourism),2025-06-09,362623.84,15.69,24,191,0.152,656,0
+17dcabf5-5088-4581-8c4c-eedf0bb1b984,Lencho Fitsum,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-01-26,19358.42,19.91,12,484,0.115,674,0
+c06e1029-5b4d-4bbf-bb04-c6b1022ba960,Getachew Yonas,South West Ethiopia,Livestock,2024-04-29,110047.72,21.02,18,140,0.232,564,0
+31e3e608-800e-4952-a5ec-4424f56febb1,Yordanos Worku,Sidama,Agriculture (Smallholder Farming),2024-03-19,137049.57,12.56,36,97,0.43,333,1
+5b182716-b9c6-426b-a401-118dc078bc3e,Samuel Natnael,Amhara,Trade/Retail (Market Vendors/Suq),2024-05-08,363976.07,14.69,12,183,0.102,670,0
+54d144d5-18ed-4297-acb8-3fceb3e1511b,Samuel Getachew,Addis Ababa,Trade/Retail (Market Vendors/Suq),2023-07-26,132495.28,14.89,18,349,0.235,733,0
+19db533e-80ea-43af-bdcf-c159e581c1bc,Mulugeta Yosef,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-09-29,146213.31,20.19,18,152,0.369,600,0
+06103d84-2672-420c-866a-5821ceb7f2d6,Hagos Hakim,Sidama,Digital/Tech (Mobile Money Agents),2025-02-24,343224.95,21.41,36,466,0.15,833,0
+961b9221-7a19-4807-a1d2-1319cbcb3293,Yosef Natnael,South West Ethiopia,Livestock,2025-07-06,357416.64,12.66,12,129,0.231,487,0
+aeb00fb9-26cb-4e99-a945-e93a4a454398,Blen Hakim,Afar,Digital/Tech (Mobile Money Agents),2023-03-05,113323.05,15.54,24,113,0.251,564,1
+17e1e8f6-a03e-4003-a29c-b897142925a0,Samuel Girma,South Ethiopia,Construction,2024-12-25,106043.63,26.93,36,245,0.341,577,0
+ae742530-ceb6-4fdc-b734-a78de2682c9f,Zewdu Robel,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-12-31,336160.85,18.53,12,54,0.353,685,1
+293a60be-b7f3-40ad-84d1-c310240f92a4,Lemlem Hakim,Central Ethiopia,Livestock,2025-10-18,313674.34,26.24,36,487,0.267,626,0
+9bd65068-ba8d-4f8c-be05-fcef842c49fa,Mulugeta Kebede,Amhara,Manufacturing (Textiles/Food Processing),2025-02-23,15705.13,26.07,24,281,0.128,629,0
+5766fe0c-c4c5-47d8-ae23-5eb085f62467,Kidist Alemu,Central Ethiopia,Services (Transport/Tourism),2025-10-13,153572.1,12.63,12,213,0.159,628,0
+4a74982e-56ca-4fb3-a196-2a11c90cd1d3,Genet Haile,South West Ethiopia,Livestock,2024-12-01,154660.14,14.76,18,244,0.26,582,0
+6e4f8ea3-f0ad-46f7-9b1f-b4d49f9bc7bd,Addis Mikael,Sidama,Livestock,2024-07-18,116781.22,21.43,6,480,0.126,701,0
+aed0cbcf-c630-4536-b677-9a11e403999b,Betelhem Getachew,South Ethiopia,Trade/Retail (Market Vendors/Suq),2023-03-09,102633.99,22.87,6,203,0.299,566,0
+9c425665-ff3c-43a6-b575-44ee3d365abf,Nardos Ermias,Tigray,Services (Transport/Tourism),2024-08-30,134624.13,14.42,24,343,0.246,660,0
+91206a37-2703-475d-b540-838e13331679,Yordanos Ephrem,Dire Dawa,Trade/Retail (Market Vendors/Suq),2025-08-05,219730.6,12.95,6,497,0.2,705,0
+ce028d60-18ef-4a28-bf5d-a7f8fe914b95,Liya Abebe,Addis Ababa,Digital/Tech (Mobile Money Agents),2025-09-07,113469.48,22.68,36,261,0.165,587,0
+4f3e2a2c-ded6-4d2a-842d-5f032482e8d1,Frehiwot Tadesse,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-01-29,158658.25,23.5,12,82,0.477,750,1
+c80cd031-cc21-4b4e-b80c-eb1ade16afca,Samuel Sisay,Amhara,Livestock,2025-05-04,343693.58,19.47,18,361,0.25,633,0
+504fde7c-746e-49a8-9817-dac57fb8b6c6,Zewdu Eskinder,South Ethiopia,Livestock,2023-05-21,266413.83,25.92,12,105,0.363,638,0
+11730df2-2956-42c6-8bac-fa4aef1e4acf,Kaleb Fikre,Somali,Livestock,2023-09-26,139243.3,27.68,6,212,0.271,621,0
+16d7ba54-5a76-4b48-9d03-14d893964405,Askale Adane,Somali,Trade/Retail (Market Vendors/Suq),2024-03-16,247319.81,18.3,18,199,0.374,668,0
+75f321cb-c59d-44aa-b5ed-7ce82ddf2675,Yonas Sisay,South Ethiopia,Services (Transport/Tourism),2023-04-26,12960.65,21.16,12,119,0.335,640,0
+418af089-fa7d-4961-b927-a136fc73e358,Fitsum Abera,Somali,Livestock,2024-02-10,11716.63,12.01,18,218,0.296,585,0
+f098aa1f-23f4-49be-ac95-ccf1a6798ab0,Amanuel Dawit,Benishangul-Gumuz,Livestock,2024-11-22,33843.68,20.35,36,203,0.281,587,0
+0a22be56-7cfe-4ab0-9198-83f9f8c01007,Roman Bereket,Gambela,Livestock,2023-07-17,162660.05,27.84,36,130,0.253,629,0
+68b666d6-66a3-43db-8960-42b0dbe7a333,Robel Habtamu,Sidama,Digital/Tech (Mobile Money Agents),2024-07-23,318887.49,27.89,36,400,0.274,850,0
+70da1528-2105-4c60-ae3a-cdf2eac9b1cc,Hiwot Tesfaye,Afar,Services (Transport/Tourism),2025-08-25,53072.82,19.06,24,218,0.349,789,0
+f3b937f2-9fe7-4068-9847-260b8331d711,Meron Tesfaye,Oromia,Services (Transport/Tourism),2024-07-28,300843.02,16.06,36,363,0.258,524,0
+69c718ee-aea4-47d6-955f-a2f45fa9b21a,Amanuel Worku,Afar,Livestock,2024-05-07,347512.19,18.69,18,191,0.34,383,0
+e023282a-e09d-49e8-8348-a88773393f5d,Nardos Hakim,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2025-03-01,325851.8,21.35,6,210,0.282,735,0
+a4d47431-fa38-45a0-9ee0-8a700aecc94d,Nardos Lencho,Sidama,Livestock,2025-12-01,369657.89,14.43,12,365,0.202,746,0
+b32281f3-3eac-4015-8a64-25fcbdb4f711,Bereket Dejen,South Ethiopia,Services (Transport/Tourism),2023-04-04,214996.45,22.0,6,229,0.341,647,0
+1af4cf72-da62-4059-a791-63f402088c91,Eyob Eyob,Tigray,Services (Transport/Tourism),2025-05-26,148061.93,27.95,6,234,0.178,664,0
+66373dc7-91f4-48bb-a880-2cff6035d9af,Meklit Bereket,Gambela,Trade/Retail (Market Vendors/Suq),2024-04-01,59835.35,13.94,18,194,0.265,613,0
+7657e37c-dfc8-4060-a362-95093919e3be,Mahlet Alemu,South West Ethiopia,Services (Transport/Tourism),2023-04-29,38855.66,15.25,12,245,0.235,590,0
+77eee00f-7743-4104-9953-ff9017efd203,Habtamu Fikre,Benishangul-Gumuz,Agriculture (Smallholder Farming),2025-11-10,233040.6,27.43,18,84,0.475,548,1
+77009b2e-d17b-4fc6-a66e-b0e288fd5890,Haile Sisay,Somali,Manufacturing (Textiles/Food Processing),2025-09-30,113313.81,13.22,24,123,0.345,609,0
+1bbcb748-bb55-4fa3-ae26-651915f87768,Ruth Tadesse,Gambela,Manufacturing (Textiles/Food Processing),2023-06-24,106671.47,15.9,6,147,0.379,664,0
+66ca0baf-3310-480a-aee0-95d5c4a9d8ac,Helen Alemu,Central Ethiopia,Manufacturing (Textiles/Food Processing),2024-09-13,233073.25,25.94,12,274,0.216,663,0
+ff169376-57a9-41b3-9139-94a1108134dc,Konjit Yohannes,Addis Ababa,Construction,2024-05-30,242174.62,23.04,12,494,0.171,423,0
+bdc4d680-b3c9-4502-b66f-42687c7dd490,Girma Hagos,Amhara,Services (Transport/Tourism),2025-08-01,194055.79,25.64,12,455,0.216,675,0
+09ccdf05-745f-4433-8743-968f1d447f41,Habtamu Kaleb,Tigray,Manufacturing (Textiles/Food Processing),2025-01-14,16747.05,24.46,6,224,0.159,812,0
+2540647b-784f-4b14-b2d3-1a6527dea64c,Ephrem Dawit,South Ethiopia,Agriculture (Smallholder Farming),2025-05-01,28115.04,14.54,24,45,0.38,490,0
+0804ccea-9175-4c63-91f7-c01736a5faba,Adane Birhanu,Somali,Agriculture (Smallholder Farming),2025-09-26,399288.15,25.21,18,142,0.477,541,1
+efbbd216-0ff9-4696-a15a-58bdc632554b,Tariku Amanuel,Gambela,Livestock,2025-07-27,125860.01,15.74,6,201,0.353,489,0
+79315fc6-fa82-465d-ae1b-abe2ca208c07,Hakim Gemechu,Amhara,Construction,2024-07-20,157027.59,20.11,36,361,0.195,643,0
+05df9333-de36-492f-b624-65c10dd8063b,Liya Adane,Afar,Trade/Retail (Market Vendors/Suq),2023-12-03,364324.37,19.06,18,188,0.339,336,1
+a2bc6715-4087-4e6a-8514-c4166c44821e,Meklit Kebede,Tigray,Trade/Retail (Market Vendors/Suq),2025-12-03,259947.75,27.12,6,285,0.12,533,0
+461ea8aa-11ba-4616-a448-ef4315663d1a,Jemal Mulugeta,Addis Ababa,Construction,2023-10-06,358701.96,27.43,36,312,0.186,688,0
+b6532dba-dfaf-46cf-8c5f-ccfb14eae37c,Ermias Kaleb,Afar,Trade/Retail (Market Vendors/Suq),2024-09-26,281885.13,17.67,6,179,0.362,604,0
+36cf9429-8657-48ff-ab72-e451df0ccde7,Dagmawit Amanuel,Amhara,Manufacturing (Textiles/Food Processing),2024-12-07,230633.89,16.76,12,417,0.205,490,0
+d49edd91-2f1f-4132-826b-2236e4a07521,Bruktait Yonas,Harari,Manufacturing (Textiles/Food Processing),2025-11-11,36202.23,16.04,6,396,0.136,850,0
+6db46c7f-e6d1-4e21-a51b-dfff17aa3aee,Abera Haile,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2023-03-30,247342.97,18.21,36,91,0.287,591,0
+2a1eda7b-4c01-4701-80d0-2553f69f239b,Feven Mesfin,Central Ethiopia,Livestock,2024-06-20,395231.6,19.03,18,231,0.217,684,0
+7b4bcaf8-6b4a-4541-b123-167e596a2b36,Sara Solomon,Tigray,Livestock,2023-11-10,342056.29,27.08,24,497,0.28,727,0
+2922ecb0-c8aa-40c8-b057-31fd8916f0b7,Eyob Kaleb,South Ethiopia,Trade/Retail (Market Vendors/Suq),2025-01-13,185780.01,21.02,6,123,0.245,425,0
+b161fd16-e9a0-42a4-9acd-1e906fd1134e,Addis Kaleb,Benishangul-Gumuz,Livestock,2025-12-23,64925.04,22.94,18,99,0.27,626,0
+8f97b21d-028a-4f1c-92b1-2838639e8bbc,Hagos Zewdu,Central Ethiopia,Manufacturing (Textiles/Food Processing),2025-06-09,261817.28,20.95,18,280,0.108,688,0
+aaff96ff-b904-4b52-93eb-459932d4d3a5,Worknesh Abera,Harari,Digital/Tech (Mobile Money Agents),2025-07-21,397684.17,20.6,6,264,0.228,685,0
+aa000756-52e0-434e-a505-a2b69dd3c15a,Tirhas Yonas,South Ethiopia,Trade/Retail (Market Vendors/Suq),2025-06-22,308213.35,24.46,24,115,0.343,584,0
+756aae2d-e581-48d1-a687-944303a1beac,Zewdu Sisay,Harari,Trade/Retail (Market Vendors/Suq),2024-05-11,278820.79,17.41,12,444,0.274,669,0
+1d15571c-5100-4ab9-9d42-da677fdbabc1,Feven Elias,Addis Ababa,Agriculture (Smallholder Farming),2023-08-23,176938.64,17.22,36,126,0.429,599,1
+b8e7bcf5-854c-4d1f-8347-09826808f471,Aberash Dejen,Harari,Construction,2025-11-17,392430.93,24.87,18,269,0.255,530,0
+d51f6de1-f17d-4a26-b357-d500fcfd348c,Blen Dejen,South West Ethiopia,Digital/Tech (Mobile Money Agents),2023-01-11,211648.86,12.73,36,84,0.371,502,0
+f82e5e1b-a390-4655-b307-33d5a261078d,Alemu Hagos,Harari,Digital/Tech (Mobile Money Agents),2023-07-20,288653.5,20.88,6,314,0.12,661,0
+bee6b06e-37f7-496a-8957-251718f23999,Kaleb Birhanu,Tigray,Construction,2025-06-22,296434.44,20.02,24,228,0.209,573,0
+c63e0e47-8bcc-4e8d-b24a-4a6d6b90a95b,Leulit Assefa,Benishangul-Gumuz,Services (Transport/Tourism),2023-10-24,221602.38,19.04,12,197,0.282,720,0
+591c228f-3754-45ec-a0a7-8c2099d76c9c,Eden Worku,South West Ethiopia,Manufacturing (Textiles/Food Processing),2023-09-21,27908.82,17.42,18,186,0.286,578,0
+adfc1dc4-f8c4-4f7a-b0ef-cbd3f3cef8b7,Samrawit Tadesse,Somali,Manufacturing (Textiles/Food Processing),2023-11-27,30140.3,27.94,12,183,0.338,552,0
+d053d7f4-5ec9-4fdc-83ad-d1a4f481b9cb,Yonas Lencho,Benishangul-Gumuz,Construction,2025-06-20,316850.72,26.78,6,212,0.316,655,0
+4e954929-e58b-4d2d-8d4c-3b8004251c71,Tesfaye Kebede,Harari,Manufacturing (Textiles/Food Processing),2024-07-24,382766.58,21.28,12,475,0.223,557,0
+b30672dc-1fef-4fb0-9e25-65fed1ad5c22,Assefa Kaleb,Central Ethiopia,Agriculture (Smallholder Farming),2025-02-23,296515.25,26.84,24,138,0.426,505,1
+69ff6cc0-74bc-405c-bfc1-9ef6a61f135f,Yonas Jemal,South West Ethiopia,Manufacturing (Textiles/Food Processing),2025-02-19,92664.05,20.51,6,166,0.248,459,0
+8adf1e46-d403-4d02-9a2a-83bd5a0ae917,Fitsum Fikre,Harari,Services (Transport/Tourism),2024-10-04,318697.72,24.93,24,483,0.183,719,0
+55f8bbb8-c3dc-4b92-b95c-a96d85ee751c,Abebe Hakim,Harari,Construction,2024-10-28,397186.94,21.96,24,288,0.106,722,0
+6daa8c7e-7575-4602-ad02-223fed2532e5,Fikerte Sisay,South West Ethiopia,Agriculture (Smallholder Farming),2023-07-01,339474.21,16.14,36,74,0.365,588,1
+29a3e5f6-984a-4463-8d81-42152d490058,Jemal Jemal,Tigray,Manufacturing (Textiles/Food Processing),2024-08-07,206033.24,22.5,36,323,0.175,534,0
+d857ec60-48f7-4726-a1ae-22556f959489,Tsegaye Addis,Oromia,Construction,2025-04-28,142474.59,22.15,36,400,0.206,591,0
+a254da12-6fff-45cc-ae26-f348b044db1b,Selome Haile,South West Ethiopia,Livestock,2025-10-26,153744.91,18.64,6,179,0.321,527,0
+ecd5afa3-f01a-4097-9ed0-fe5fb3bc5791,Girma Jemal,Amhara,Services (Transport/Tourism),2024-03-21,205894.82,18.88,12,443,0.231,723,0
+d655005d-ce52-4176-966e-46aefed01fca,Almaz Abebe,South Ethiopia,Livestock,2023-06-09,354704.33,26.57,18,243,0.373,624,0
+9dc33d41-0434-46c3-a64d-cc1d16f28319,Lencho Bereket,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2023-06-16,101467.04,15.16,12,115,0.221,632,0
+c0712a38-bffc-4f09-bf14-64b31a8a76f3,Helen Abera,Somali,Livestock,2024-10-05,82904.78,22.19,36,188,0.339,620,0
+a22eb45b-1986-433d-8b73-aba7ed5edfa2,Worku Hakim,Somali,Construction,2025-09-01,388414.56,17.51,24,87,0.276,378,1
+085acd62-ce4d-49f3-94cb-b94e80dc4cf9,Eyob Tesfaye,South West Ethiopia,Agriculture (Smallholder Farming),2024-11-25,10556.03,23.71,24,81,0.45,481,1
+363d2fb5-6baf-4e8f-9a09-5b0c4a372da3,Mesfin Natnael,South West Ethiopia,Digital/Tech (Mobile Money Agents),2025-11-08,213692.89,17.76,36,125,0.223,497,0
+618e72a7-8d34-4d83-b462-9fb5c6e19fd7,Tariku Girma,Tigray,Digital/Tech (Mobile Money Agents),2023-12-18,41216.12,24.09,12,431,0.102,671,0
+f35757c5-7836-4477-9b39-455032103c49,Jemal Sisay,Central Ethiopia,Livestock,2023-07-02,393376.41,12.93,12,299,0.205,768,0
+e9fdd358-cb33-478a-b7b5-b05b59c1d16c,Selamawit Worku,Gambela,Livestock,2023-07-18,150876.87,16.17,18,236,0.357,592,0
+a51581ba-d206-499a-a872-443469b6175e,Askale Gemechu,Afar,Agriculture (Smallholder Farming),2024-12-26,162212.75,22.47,12,177,0.351,494,0
+01f268f5-6553-45aa-bdbc-34f8c8ddd9bb,Solomon Tariku,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2026-01-03,239356.19,24.1,18,157,0.286,517,0
+489a4ca4-81ef-4162-b953-e8bbc83e0032,Mulugeta Gemechu,Central Ethiopia,Livestock,2024-08-09,88756.94,14.47,36,492,0.187,734,0
+4eb18c88-43b6-4613-a89f-5f9de12def58,Sara Ephrem,Sidama,Trade/Retail (Market Vendors/Suq),2024-02-25,38560.29,21.6,6,495,0.195,777,0
+e672abf5-0110-483e-bdd6-831bac5d7133,Mahlet Dawit,Central Ethiopia,Services (Transport/Tourism),2024-10-11,90160.0,12.65,36,451,0.221,586,0
+27439b53-06b8-4c8a-83f9-c74d085d5d01,Liya Bekele,Oromia,Construction,2024-10-10,250566.97,14.76,18,305,0.174,384,0
+d1edc618-84da-4679-9113-b5ffd73cad84,Sisay Tariku,Tigray,Construction,2024-08-09,389836.9,12.73,6,418,0.271,804,0
+f58b8c61-2ba0-49ec-95c8-74415145c6f8,Jemal Mesfin,Oromia,Livestock,2025-07-25,177853.12,19.26,6,377,0.258,644,0
+8e44f2f8-3de8-44cd-ae15-c527fe2a0cbc,Meklit Hagos,Somali,Agriculture (Smallholder Farming),2025-06-12,87704.33,19.94,18,175,0.48,673,0
+64b078a7-a4f9-467f-9dc3-bbee31523136,Berhanu Ephrem,Somali,Livestock,2024-09-04,286179.16,24.46,18,228,0.31,642,0
+6dd9a879-93ee-46ee-ae93-a4d0cd24120c,Elias Tsegaye,Dire Dawa,Services (Transport/Tourism),2023-03-27,248418.99,23.66,6,282,0.162,551,0
+fa33fa98-63f2-4557-a2e2-d1caf07bf9bb,Mulugeta Mesfin,Addis Ababa,Digital/Tech (Mobile Money Agents),2023-07-25,105587.8,23.44,12,391,0.194,556,0
+846c454c-5170-42ef-a777-c6646732ceca,Addis Tesfaye,Amhara,Agriculture (Smallholder Farming),2023-10-02,243502.1,19.1,36,178,0.419,662,1
+b5c43078-197d-405f-bb20-d1546ff98cf7,Adane Habtamu,Gambela,Trade/Retail (Market Vendors/Suq),2023-09-09,324312.45,16.16,36,122,0.268,727,0
+93b1ee1d-a1a6-4f32-9e4d-acd68116fd6c,Senait Eyob,Somali,Livestock,2023-07-21,284598.88,22.92,18,156,0.283,454,0
+eaaa94c8-a097-4fe3-831d-b215d7d0dc99,Sara Lencho,Tigray,Agriculture (Smallholder Farming),2024-09-05,71165.14,23.08,24,77,0.319,671,0
+f2de05fd-28b7-4541-8d8b-3728d65bc676,Worknesh Eyob,Somali,Construction,2024-02-14,71643.91,12.35,24,241,0.346,714,0
+06905ba5-17e0-4df5-97df-85b33429c8cf,Jemal Worku,Addis Ababa,Manufacturing (Textiles/Food Processing),2024-05-20,105863.5,22.78,36,237,0.108,636,0
+97e1bc36-c520-450f-a0ff-349802f4298f,Dagmawit Habtamu,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-11-15,281969.65,15.59,24,180,0.231,471,0
+8b2e1eb3-b523-41f3-9e3b-c735071f1a27,Assefa Tadesse,Tigray,Agriculture (Smallholder Farming),2023-08-31,294483.16,15.8,12,70,0.368,389,1
+be09f835-0679-45ab-a1e5-48ca926114b7,Jemal Natnael,Somali,Services (Transport/Tourism),2023-05-08,157415.37,25.05,18,148,0.249,575,0
+a1aa19f0-a26c-4d5a-b426-17e7fbc1085b,Aberash Elias,Afar,Construction,2023-07-27,175506.94,20.68,18,165,0.28,402,0
+e5dd614c-a70b-4a9c-bd5e-69df2fc2147c,Selamawit Solomon,Afar,Agriculture (Smallholder Farming),2024-07-15,262555.61,27.46,18,76,0.402,398,1
+d7282d30-8911-4a42-b19e-c58b4c031d16,Rahel Jemal,Sidama,Agriculture (Smallholder Farming),2023-12-16,47851.11,18.92,36,63,0.368,522,0
+c93a7471-ce9d-4f4e-87af-fa24b9ef9fa8,Hagos Adane,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-01-21,355710.06,16.83,6,273,0.229,544,0
+0d3f69ed-a8c5-4cca-82ae-cc90c5386208,Worknesh Addis,Gambela,Livestock,2024-08-15,103220.0,17.9,6,143,0.315,482,0
+a09fc700-24ce-4460-af5a-9491153d1653,Selamawit Tadesse,South West Ethiopia,Services (Transport/Tourism),2024-03-08,55420.47,26.08,12,176,0.29,582,0
+ddefb7bb-9450-44c8-bc1b-b61aa36d4d54,Ruth Samuel,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2023-02-10,350300.94,20.75,24,310,0.187,689,0
+988c89db-ed5c-4a4e-b589-64f51c66021e,Sisay Worku,Tigray,Manufacturing (Textiles/Food Processing),2023-06-15,53504.46,14.84,18,322,0.242,686,0
+4312153d-484f-4f7c-a44f-52f41b696031,Hakim Sisay,Benishangul-Gumuz,Livestock,2023-07-15,226237.54,22.11,36,219,0.29,529,0
+d83940c9-7e86-47f8-93cf-44fe17c03e28,Meskerem Girma,Harari,Manufacturing (Textiles/Food Processing),2023-10-13,384898.9,24.0,12,445,0.214,580,0
+640b7b85-353d-4edc-969b-deb1e9a7f5e0,Marta Kebede,Amhara,Trade/Retail (Market Vendors/Suq),2024-07-20,169643.76,22.59,12,399,0.214,817,0
+69eb337c-059e-48d8-8ba2-0d387db4990d,Samrawit Haile,South West Ethiopia,Digital/Tech (Mobile Money Agents),2023-06-11,327361.84,12.42,36,184,0.292,628,0
+13893a70-a02c-4ed2-b58f-41b07c8c65ab,Tadesse Yonas,Sidama,Services (Transport/Tourism),2023-04-30,264075.67,20.27,36,428,0.279,668,0
+e3c443f1-6010-4b93-ab7f-0864aff54774,Tadesse Amanuel,Addis Ababa,Services (Transport/Tourism),2023-11-28,45652.45,14.56,12,489,0.169,654,0
+cefd1224-736c-467e-a886-818ea2307350,Habtamu Jemal,Sidama,Digital/Tech (Mobile Money Agents),2024-05-07,259501.61,20.54,12,185,0.247,748,0
+e754d4c3-0298-4dd2-8c7b-34e22e07cb63,Feven Adane,Sidama,Digital/Tech (Mobile Money Agents),2023-09-13,208791.86,26.45,24,270,0.264,850,0
+9b4dbb90-a197-439c-913a-2b6ca8dfe59a,Hirut Yosef,Sidama,Digital/Tech (Mobile Money Agents),2023-10-10,398643.61,16.78,12,481,0.158,623,0
+fe65b782-57c2-4cfd-b9d5-9f7f1e014975,Eskinder Dejen,South West Ethiopia,Digital/Tech (Mobile Money Agents),2023-02-23,392889.27,23.7,24,182,0.356,600,0
+999921ec-9d2f-4e76-beb2-d1727be19731,Meskerem Birhanu,Harari,Digital/Tech (Mobile Money Agents),2024-06-27,282453.33,20.69,12,370,0.22,624,0
+bddfd7eb-8591-4036-a88c-22220148a245,Selamawit Kaleb,Dire Dawa,Trade/Retail (Market Vendors/Suq),2025-05-03,340980.78,14.61,18,448,0.149,657,0
+9b2a1376-315e-4e80-9f20-c257ed348e32,Lemlem Fikre,Dire Dawa,Services (Transport/Tourism),2024-02-05,158164.72,24.88,12,488,0.218,850,0
+8301b3a6-849b-40bc-85e5-d46189344b06,Robel Haile,Dire Dawa,Trade/Retail (Market Vendors/Suq),2023-02-20,30585.51,14.88,12,386,0.213,793,0
+1d62c6b5-5d69-4934-9deb-78a4375fdd57,Getachew Gemechu,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-08-30,167169.91,23.56,24,142,0.437,776,1
+384243b4-2378-4f44-93d9-a4dd078d27e5,Kaleb Amanuel,Somali,Construction,2023-12-09,399472.68,15.22,12,88,0.304,635,0
+2067902b-f099-42b6-b10c-cf77ba4d6c8e,Eskinder Kaleb,Dire Dawa,Agriculture (Smallholder Farming),2023-05-15,100530.15,12.76,12,172,0.415,457,0
+f406d6e0-3301-4b08-bb48-7db6460f01a5,Frehiwot Kebede,Somali,Livestock,2024-02-25,136334.87,12.79,36,200,0.372,727,0
+a6e486bf-8d2e-4a22-b544-f70c593acb51,Konjit Dejen,Tigray,Construction,2023-05-28,175016.1,26.45,24,332,0.187,639,0
+7eecdc53-cf1b-4490-bec5-104077902ddf,Gemechu Dawit,Central Ethiopia,Digital/Tech (Mobile Money Agents),2024-04-07,295978.54,21.07,12,208,0.149,701,0
+ec1f0155-6662-4bd2-b243-b5c6833d7595,Mikael Hagos,Addis Ababa,Digital/Tech (Mobile Money Agents),2024-11-13,200780.19,13.54,24,398,0.171,800,0
+afe2ff5c-32a8-47cc-ac47-133640061add,Yosef Abera,Oromia,Digital/Tech (Mobile Money Agents),2023-11-01,39679.41,17.58,24,244,0.248,536,0
+9569f8cb-1a57-4cee-a490-3d65f63d3295,Elias Yonas,Gambela,Digital/Tech (Mobile Money Agents),2024-03-17,339680.7,19.89,12,81,0.3,505,1
+34b16488-cb4a-4b4b-aa68-3e184fc40b0a,Blen Bereket,Addis Ababa,Manufacturing (Textiles/Food Processing),2025-07-06,137010.03,12.49,36,389,0.104,730,0
+6c7a0c9d-7237-44ba-a202-f0226ef7ffc3,Worknesh Mikael,Harari,Trade/Retail (Market Vendors/Suq),2025-02-01,349829.36,20.18,18,183,0.202,546,0
+5199839c-d0de-4fb6-858c-6c02bf409640,Roman Abera,Dire Dawa,Construction,2025-07-20,71510.92,22.04,12,342,0.262,579,0
+6de77482-620f-4af4-9b77-ba461b88fe69,Lencho Natnael,Harari,Construction,2025-08-30,239079.6,16.97,36,341,0.28,734,0
+e5dc6ce5-5fbb-4fd7-9a58-abba91303877,Dawit Tesfaye,Harari,Manufacturing (Textiles/Food Processing),2023-11-12,175071.07,21.89,24,280,0.161,661,0
+2ad0d57e-730c-49bc-9073-c0c3d1c06099,Birhanu Samuel,Addis Ababa,Trade/Retail (Market Vendors/Suq),2025-09-14,372887.52,22.02,24,224,0.115,636,0
+963d101f-40c8-47a3-82e8-47aef545dfb3,Yohannes Kebede,South Ethiopia,Services (Transport/Tourism),2023-02-27,105070.1,16.75,36,229,0.312,541,0
+e09397d5-d3a1-488a-9a98-04574b211512,Alemu Natnael,Oromia,Manufacturing (Textiles/Food Processing),2024-10-03,289839.38,17.06,12,287,0.241,720,0
+5a2d465b-87ce-4aaa-b713-c245f34bfa59,Kaleb Tewodros,Afar,Livestock,2025-10-04,268885.94,22.93,18,159,0.297,541,0
+cf1d46be-2e0e-443d-9d59-b30807aa2515,Bezawit Bekele,Sidama,Agriculture (Smallholder Farming),2024-09-15,342104.94,12.89,18,166,0.33,717,0
+5b952506-2f98-4e44-8a78-2f586dec4b0d,Tirhas Jemal,Tigray,Trade/Retail (Market Vendors/Suq),2024-05-21,39738.11,26.73,12,341,0.275,626,0
+5f25210e-a82e-4d61-b716-4f3112988e9c,Sisay Mesfin,Gambela,Services (Transport/Tourism),2024-01-22,299144.04,17.25,6,235,0.299,585,0
+1f4f4a0f-507f-4c32-878e-4415252151f9,Aberash Yohannes,South Ethiopia,Digital/Tech (Mobile Money Agents),2024-08-05,100662.93,16.76,18,102,0.291,499,0
+b780606a-02ca-48d5-b033-ee83518f0ed4,Lencho Habtamu,Tigray,Digital/Tech (Mobile Money Agents),2023-01-20,252048.41,24.2,36,357,0.232,850,0
+cb94cf8d-9145-4a38-b722-ec2c36b9ca35,Hirut Natnael,Benishangul-Gumuz,Agriculture (Smallholder Farming),2024-05-30,30508.88,16.09,36,58,0.428,850,0
+10f4c941-8fc7-4d79-bb8e-de31e61415dd,Leulit Dawit,Central Ethiopia,Services (Transport/Tourism),2024-05-19,334889.36,20.6,36,220,0.193,677,0
+86faaa83-3651-4c93-9a0f-b0b8489af195,Dejen Addis,Benishangul-Gumuz,Services (Transport/Tourism),2024-08-26,364538.29,15.49,36,180,0.304,544,0
+b75d2f0c-472e-4f3b-8f9a-fd511a58fa44,Haile Lencho,Dire Dawa,Manufacturing (Textiles/Food Processing),2023-12-09,325166.31,21.79,6,431,0.135,850,0
+dc233c06-ceb3-40ac-a223-e389f23ed1fc,Tesfaye Gemechu,Addis Ababa,Digital/Tech (Mobile Money Agents),2025-08-07,257202.63,18.84,12,186,0.262,774,0
+a571f542-e485-4118-92ee-48201327adb9,Kidist Mulugeta,Oromia,Services (Transport/Tourism),2025-11-13,34277.73,26.75,6,307,0.132,810,0
+515a3eea-6f69-41cf-8196-66e9aea03292,Eyob Solomon,South West Ethiopia,Digital/Tech (Mobile Money Agents),2024-10-22,94026.78,20.44,6,133,0.259,638,0
+cd7f65f6-0cb6-4029-b276-ab7532b9fc56,Aster Amanuel,South Ethiopia,Agriculture (Smallholder Farming),2024-05-17,343830.59,26.31,12,171,0.43,597,1
+46401757-fd81-4925-8bfa-8cd57fa79708,Selome Zewdu,Somali,Construction,2025-02-11,159927.21,22.37,6,248,0.365,426,0
+2bcfd03f-73e9-499b-9fc4-89b31e87c27e,Kebede Hakim,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-10-21,161490.41,18.97,36,353,0.113,300,0
+3c862582-6202-435d-9756-fd3353ae1065,Bezawit Sisay,Gambela,Construction,2025-07-28,239493.09,17.81,36,132,0.318,546,0
+a4c755b0-0490-4b68-88f8-2df60571dd83,Mikael Tewodros,Gambela,Trade/Retail (Market Vendors/Suq),2025-06-19,388002.04,23.29,12,94,0.274,609,0
+7636ae1c-e961-41f3-8130-8be0fcea9a96,Kidist Abera,Tigray,Agriculture (Smallholder Farming),2025-06-18,282984.17,25.25,36,169,0.458,621,0
+671e9bb8-f783-46f6-9775-e809218d0520,Roman Yohannes,Oromia,Construction,2024-03-22,292083.08,13.13,36,465,0.223,730,0
+870b230c-eb04-4ecb-8891-4b26e5551570,Haile Habtamu,Addis Ababa,Construction,2023-03-04,155443.53,21.36,6,486,0.102,622,0
+11c7beb2-042a-4bd7-a510-04b8565f2ea8,Worku Tewodros,Tigray,Construction,2023-03-07,213530.46,25.08,18,293,0.137,526,0
+6a429bd5-cd71-42b4-9471-104f1859c5ae,Tariku Kebede,South West Ethiopia,Manufacturing (Textiles/Food Processing),2025-01-04,57068.5,20.18,24,105,0.233,557,0
+5887f3d2-c0f1-4a3a-9133-577b46510173,Senait Mikael,Oromia,Agriculture (Smallholder Farming),2024-04-17,51618.84,20.8,18,81,0.418,566,0
+502c36f1-c64d-40e3-8e73-8520146b9fbc,Eyob Lencho,Dire Dawa,Agriculture (Smallholder Farming),2024-09-18,337015.98,23.56,36,143,0.326,730,1
+4c66d04f-64b1-4c49-8c0c-f61e9cc10bd8,Selome Tariku,Afar,Trade/Retail (Market Vendors/Suq),2025-02-11,24520.17,25.69,6,160,0.365,629,0
+d94296b6-7e4b-4f10-b45f-780efbe5403b,Selome Dawit,Harari,Manufacturing (Textiles/Food Processing),2025-12-22,300536.43,22.13,18,366,0.222,726,0
+d7d3ce21-1f14-4b34-a914-ae70f7974ec8,Fikerte Tewodros,South Ethiopia,Livestock,2025-09-27,137813.51,18.02,6,216,0.364,602,0
+077f6e36-1a4d-47db-9e33-bdbcf00d5a65,Bereket Natnael,Dire Dawa,Manufacturing (Textiles/Food Processing),2024-08-08,397625.68,23.0,6,328,0.106,615,0
+23841977-02a9-4064-9351-1e950c3edd5c,Yosef Girma,Central Ethiopia,Construction,2023-12-19,183962.32,16.99,12,475,0.148,473,0
+b0067b61-dc83-496f-92a6-e3d4fe58a970,Hirut Jemal,Afar,Livestock,2023-06-18,257002.05,25.01,24,126,0.268,664,0
+30efd76b-1688-4399-ab91-aace39f18027,Selamawit Yonas,Amhara,Agriculture (Smallholder Farming),2024-11-12,271424.83,26.42,12,138,0.303,566,1
+fd54225b-899d-4cd2-a723-2e8ad0ef0cd4,Sara Tadesse,Central Ethiopia,Manufacturing (Textiles/Food Processing),2024-08-01,252307.81,13.46,36,409,0.178,595,0
+0d700c8b-de36-490a-b030-9415ef21db2c,Bruktait Hakim,Addis Ababa,Services (Transport/Tourism),2023-01-13,206597.09,25.0,6,381,0.234,771,0
+1c5d9fe9-0b07-4a68-88f2-17a3e2213776,Almaz Fikre,Gambela,Livestock,2024-02-13,176649.36,27.56,6,174,0.31,517,1
+43839f12-1335-46c3-8de5-f4aff27815f6,Elias Bereket,Gambela,Services (Transport/Tourism),2023-03-21,248427.68,20.37,6,239,0.221,652,0
+cfff0d34-caa8-4f13-9cdd-39a7b01ba134,Dawit Eskinder,Sidama,Agriculture (Smallholder Farming),2024-05-31,268113.42,13.1,36,70,0.372,481,0
+ecc38555-2b9b-4ffc-b2db-b2c54518f4c6,Amanuel Fikre,Somali,Agriculture (Smallholder Farming),2024-08-17,185144.3,17.69,12,133,0.436,550,1
+205474fa-1eb1-4c0c-b5f0-06c0955d3078,Emebet Habtamu,South Ethiopia,Trade/Retail (Market Vendors/Suq),2023-08-08,34267.43,26.36,24,174,0.226,613,0
+95899035-c0c6-43ff-a5e3-6ccddca524f2,Liya Mulugeta,Sidama,Construction,2024-05-16,377258.79,15.19,12,380,0.107,375,0
+1f53db6e-ab11-4736-b260-282fa30c1e0e,Ruth Tadesse,Tigray,Manufacturing (Textiles/Food Processing),2024-10-09,139281.99,27.32,18,432,0.248,572,0
+7a59697d-93f0-40c7-bd92-f1cb87101172,Yordanos Zewdu,Somali,Digital/Tech (Mobile Money Agents),2025-03-26,296386.13,23.63,12,91,0.288,582,0
+5268c879-47d1-431c-b9f2-09ab7d7771f8,Tsehay Gemechu,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2025-10-29,320225.87,21.95,36,226,0.157,652,0
+c425d020-4389-4f66-9780-29e939d00762,Bereket Bekele,Dire Dawa,Construction,2025-01-24,106399.02,16.14,36,484,0.258,845,0
+8efadaa1-5a5e-47eb-9532-0177b61d170a,Bruktait Eskinder,Benishangul-Gumuz,Livestock,2024-04-10,23927.27,17.84,18,164,0.297,581,0
+db19de67-bc3a-4abb-a5aa-9765a8d3bb7d,Aster Habtamu,Sidama,Livestock,2024-01-17,349418.47,27.03,18,256,0.114,705,0
+f8c59ac6-133c-49cf-93f8-e789b1e93b1a,Helen Dejen,South Ethiopia,Manufacturing (Textiles/Food Processing),2023-11-21,42433.08,22.3,24,83,0.376,597,0
+aba5d1c9-035c-4d03-b664-cafa0f6da751,Mignot Jemal,Tigray,Trade/Retail (Market Vendors/Suq),2025-02-12,73472.15,15.23,18,457,0.26,690,0
+301b5b4e-6293-4e8e-9189-f75077d8b428,Selamawit Gemechu,Harari,Livestock,2023-12-07,308808.8,23.84,12,395,0.219,722,0
+d06200e3-356a-4651-9727-bd831ac2c99a,Sara Tadesse,Amhara,Services (Transport/Tourism),2025-02-01,218260.9,15.79,6,367,0.234,483,0
+dbc3f559-8390-4d94-8713-b81fc2f86229,Getachew Yonas,Amhara,Construction,2025-07-11,322759.05,23.15,6,214,0.269,715,0
+b56110f6-4fd3-4a88-b1c2-fa18c2af56a6,Ermias Birhanu,South West Ethiopia,Agriculture (Smallholder Farming),2024-05-06,105253.39,26.46,18,148,0.32,673,1
+8127a8f7-d909-40c9-a76c-7935a7c10adb,Worknesh Tesfaye,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-12-11,148417.96,27.27,12,310,0.253,564,0
+eaacabb4-3802-485f-a14b-a540ea041d0b,Fikre Alemu,Central Ethiopia,Services (Transport/Tourism),2023-06-19,357086.2,27.47,24,470,0.113,850,0
+de2bfe58-73d2-439e-b99d-d6d562b51781,Yordanos Tewodros,South Ethiopia,Services (Transport/Tourism),2024-07-23,46235.55,18.04,12,104,0.271,805,0
+6673d42d-c7af-45de-b3f9-2a8783726123,Tsehay Adane,Sidama,Agriculture (Smallholder Farming),2025-08-26,284359.19,14.19,18,157,0.463,631,1
+2a08c526-6c4f-433d-8720-6b6c11925880,Robel Elias,Oromia,Construction,2023-10-24,185241.06,26.3,36,452,0.256,466,0
+93c6267d-dead-44fc-b395-26574ea12bd9,Meskerem Hakim,Sidama,Trade/Retail (Market Vendors/Suq),2025-12-07,373796.69,23.44,24,349,0.267,716,0
+e04e6585-7601-46cf-a5b4-c7aa1a20e3ba,Bekele Fikre,Amhara,Services (Transport/Tourism),2025-10-09,55182.58,16.66,36,433,0.274,607,0
+043f1b5f-3d95-4061-9c36-036fbeba0619,Almaz Bekele,Addis Ababa,Services (Transport/Tourism),2023-06-21,285945.81,23.74,24,205,0.151,641,0
+79eae461-0751-4daa-844a-2a482fe12ed8,Amanuel Sisay,Harari,Livestock,2024-12-21,18497.69,24.63,24,225,0.157,704,0
+43fcf7b7-5a19-47ab-b3e0-467e87e81b25,Dawit Elias,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-10-30,267946.79,17.2,12,263,0.193,473,0
+5abbb78f-1585-465d-8ce0-bd8fed4b229f,Tsion Birhanu,Amhara,Trade/Retail (Market Vendors/Suq),2023-07-08,340773.15,19.74,12,253,0.25,676,0
+808f8cb9-659d-42db-a68f-090a3649f585,Rahel Tariku,Afar,Trade/Retail (Market Vendors/Suq),2024-11-06,208810.17,20.37,36,183,0.254,555,0
+70fbb28e-0d9b-43b5-956f-f3c182077e01,Eyob Bekele,Afar,Services (Transport/Tourism),2024-11-05,233596.25,21.13,12,121,0.366,487,0
+a60c1329-0c94-4263-990a-40d65ea9f259,Hirut Yosef,Tigray,Digital/Tech (Mobile Money Agents),2024-03-04,233373.77,13.46,12,312,0.137,671,0
+31a580d7-6c2e-407e-ad92-b753bb647511,Blen Yosef,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-08-22,42967.72,19.51,12,216,0.369,560,0
+98139b31-2d38-4d1f-a716-d461307fc576,Yohannes Tadesse,Amhara,Construction,2024-04-06,97441.83,22.78,12,191,0.261,833,0
+84c42de1-7e5d-421a-9b81-b89887916cbe,Tsehay Dawit,Dire Dawa,Manufacturing (Textiles/Food Processing),2024-03-09,383547.14,23.96,36,276,0.253,745,0
+a576db48-0cc4-4000-ae60-89481bf384ef,Assefa Zewdu,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2024-11-09,250008.21,17.15,12,156,0.311,544,0
+1d7cf46d-3836-413c-9c6f-ec01f57f2bba,Haile Alemu,Oromia,Trade/Retail (Market Vendors/Suq),2024-01-27,155848.4,23.83,36,184,0.265,850,0
+442441ec-9342-4e7c-8922-d88de5228d31,Emebet Dejen,Tigray,Agriculture (Smallholder Farming),2023-03-29,50184.48,26.47,18,108,0.414,625,0
+4684833e-19dd-4b90-8839-c8e410db5fdc,Ephrem Tesfaye,Harari,Services (Transport/Tourism),2024-01-11,110027.41,20.47,24,471,0.273,696,0
+b7403274-b313-4c8e-9ec6-c95ee1f217be,Natnael Bekele,Amhara,Agriculture (Smallholder Farming),2023-12-23,385282.99,16.81,6,40,0.472,564,1
+384a9967-19ef-43bf-a494-23aa645416be,Bezawit Fikre,Amhara,Construction,2024-09-25,100218.04,17.34,12,274,0.106,697,0
+2bc8906f-34a9-4b86-bec3-91ef44ad2484,Aberash Tewodros,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2025-12-15,256757.02,17.64,12,206,0.232,682,0
+b4b2ce14-49b9-4124-a30b-d3b558fe7bd2,Rahel Eskinder,Dire Dawa,Manufacturing (Textiles/Food Processing),2023-11-18,365914.98,23.69,36,197,0.249,741,0
+182047f7-00cb-4caa-bbdf-b57449b8f7ba,Kidist Tewodros,Harari,Agriculture (Smallholder Farming),2025-07-20,176516.89,26.43,24,40,0.43,483,1
+9f4325f4-b352-4505-a864-6e0c80d458b9,Helen Fikre,Gambela,Livestock,2023-10-20,123374.89,20.7,6,165,0.264,614,0
+e81b60ff-da41-415f-8e29-b9dabd350d2a,Yosef Tsegaye,South West Ethiopia,Services (Transport/Tourism),2025-01-15,76229.93,24.81,12,241,0.297,487,0
+ae7303c0-50ab-4660-ab94-5cbb3d162ab9,Bereket Mesfin,South West Ethiopia,Construction,2025-12-09,136584.77,18.56,18,93,0.349,527,1
+e65dd443-5508-4167-aff5-cdab2aa946d4,Meron Abebe,Somali,Construction,2023-04-23,250309.84,15.9,24,201,0.378,608,0
+aa810850-0342-46fa-b655-8f35244f35c6,Leulit Habtamu,Gambela,Manufacturing (Textiles/Food Processing),2024-12-13,282572.0,24.82,24,115,0.335,770,0
+2d71a040-0554-488b-9584-92ba6d8c5504,Ermias Habtamu,Addis Ababa,Livestock,2025-01-12,341214.81,22.72,6,305,0.232,606,0
+ade03e6c-2bb4-4408-93b4-c4f6e19a17f6,Tsegaye Lencho,Central Ethiopia,Construction,2024-02-19,67447.52,20.09,24,314,0.182,605,0
+794ceef2-f833-4fa7-9a26-15f89810b8c1,Gemechu Girma,Harari,Services (Transport/Tourism),2023-01-21,334302.68,21.84,18,484,0.225,712,0
+3f5cd7ed-df8b-4008-bd01-b5a30041f5d4,Berhanu Assefa,Amhara,Digital/Tech (Mobile Money Agents),2025-06-29,257274.42,21.43,36,428,0.265,617,0
+0473b982-d1a5-49db-8b90-b03d1c00b895,Lemlem Getachew,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-01-09,176699.91,15.81,36,189,0.221,543,1
+d5da16fd-4a68-498f-bd8b-b697ae1782f6,Frehiwot Dawit,Tigray,Services (Transport/Tourism),2025-06-05,131904.14,24.19,36,286,0.25,675,0
+c1472ff2-2ad4-4bba-80ce-350586780a98,Tsion Gemechu,Amhara,Trade/Retail (Market Vendors/Suq),2023-12-26,189996.29,16.88,12,293,0.14,627,0
+4dfa6a17-1999-4b39-980a-7e01c67736bc,Hirut Berhanu,Afar,Agriculture (Smallholder Farming),2023-08-21,396796.68,12.01,12,180,0.339,619,0
+59ccc94a-bc1c-460d-bd9c-03c773deaa56,Lencho Berhanu,Central Ethiopia,Digital/Tech (Mobile Money Agents),2024-06-10,147469.04,19.32,18,467,0.127,582,0
+40e7ca76-7c8a-437a-a9d5-240141e1008c,Abera Abebe,Addis Ababa,Construction,2025-05-02,217886.88,13.57,6,273,0.242,837,0
+5a45b8ea-d3e7-43d1-8378-bcb77570b0ac,Tsehay Habtamu,Afar,Trade/Retail (Market Vendors/Suq),2024-07-24,173221.39,18.1,36,215,0.236,776,0
+84909370-e430-4b91-956f-e90eb5ccdbe6,Roman Kaleb,Afar,Livestock,2024-04-17,192559.8,23.85,12,167,0.353,539,0
+d7fc88c5-e6f4-47b9-9d79-02fcdb617a80,Leulit Sisay,Harari,Agriculture (Smallholder Farming),2025-11-02,252603.21,13.29,36,168,0.439,463,1
+af8f8cf0-451a-4ec7-9cdd-e8ca7bfeadd1,Eskinder Addis,Oromia,Construction,2025-07-19,346199.83,21.82,36,427,0.164,673,0
+25dccca2-054e-4210-a3c9-f400ba6c557c,Feven Ephrem,Oromia,Agriculture (Smallholder Farming),2025-03-22,370058.09,21.54,24,59,0.494,580,0
+fe7c7d6e-a8cc-4515-b862-abcfdb3437bb,Sisay Tewodros,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2024-10-04,321268.77,20.41,18,182,0.235,781,0
+3e8ee36a-07e9-4e6d-bf71-eef65b7117bd,Almaz Abebe,South West Ethiopia,Construction,2023-08-14,294196.61,24.18,18,211,0.343,487,0
+6e43b319-f929-4271-b220-58f9bdb2fd9e,Hiwot Zewdu,Sidama,Livestock,2025-06-21,167651.94,24.42,24,278,0.272,676,0
+319fa2f7-16da-48f5-be8e-b66f34d091d1,Dawit Yosef,Tigray,Manufacturing (Textiles/Food Processing),2024-07-17,131883.69,15.61,12,283,0.191,730,0
+461fe028-f727-4e90-9ba1-68b8a3840e2b,Tesfaye Worku,Addis Ababa,Digital/Tech (Mobile Money Agents),2024-08-14,386549.22,14.89,12,393,0.207,485,0
+e9926bad-e633-4f58-8b7f-a47eadc5efc7,Nardos Dawit,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-09-05,230597.05,24.52,18,362,0.104,751,0
+86e35e9b-e047-4ecb-b553-8cd3fcc1c48c,Selome Tsegaye,Gambela,Services (Transport/Tourism),2024-12-03,161733.68,24.03,18,207,0.282,644,0
+594de8d7-add7-4b0f-a90b-365143eb4ff0,Frehiwot Dejen,South West Ethiopia,Livestock,2023-10-04,134492.3,18.79,18,206,0.299,607,0
+f1fcfc36-6ad3-4c40-96d2-6487641a4b74,Abera Mesfin,Gambela,Services (Transport/Tourism),2024-06-03,151359.34,15.96,6,81,0.285,767,0
+945b3711-0a85-4722-b0c9-5ec44f2fcfd6,Emebet Assefa,South West Ethiopia,Livestock,2024-03-10,57209.02,15.55,24,215,0.281,474,0
+9cc41ca3-d58c-449e-97e0-d57bb3ab800b,Selome Tesfaye,Central Ethiopia,Agriculture (Smallholder Farming),2025-03-23,319473.29,17.19,24,137,0.4,428,1
+9110c9fd-747c-418f-8b9a-efff6ef735aa,Mignot Kebede,Afar,Services (Transport/Tourism),2023-07-16,290291.2,20.75,18,146,0.291,540,1
+02223c10-f82f-4dc3-9c35-730b49d52453,Bezawit Dawit,Afar,Livestock,2024-06-28,354438.63,20.98,12,131,0.317,616,0
+776094f6-25aa-420f-af7e-ad9eed5f24c3,Sara Tsegaye,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2025-02-19,244609.21,24.05,18,200,0.289,529,0
+4a2f2373-f777-4816-85ef-875e26755363,Addis Abebe,Amhara,Manufacturing (Textiles/Food Processing),2025-11-28,45044.59,25.27,12,203,0.111,716,0
+4dbbb7cd-29a0-49de-aa10-e5958ee25180,Meron Kebede,Amhara,Digital/Tech (Mobile Money Agents),2025-09-01,10446.92,16.52,24,211,0.205,808,0
+4b73361f-ccbe-46db-908a-b4de49cb6790,Helen Worku,Sidama,Construction,2025-01-31,207311.24,20.15,36,294,0.231,850,0
+4873d252-37a2-4180-8a7b-e6e774300ccc,Feven Eskinder,Benishangul-Gumuz,Construction,2023-01-30,360131.89,18.42,36,83,0.282,600,0
+4e4a516f-7d05-455b-8d9e-13281f997c80,Aberash Getachew,Tigray,Digital/Tech (Mobile Money Agents),2025-07-15,323651.18,20.8,24,485,0.149,600,0
+d5883c8f-a906-4c79-9a2d-6aee6e29a319,Nardos Zewdu,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2023-01-13,295882.39,21.76,36,317,0.131,588,0
+59a7e6e4-2341-49c5-805d-f1860cc66163,Hirut Yosef,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2023-01-06,15457.43,23.72,6,156,0.331,533,0
+aa52cdf3-8082-40ee-9be8-1d7ac90703e8,Adane Eskinder,Central Ethiopia,Livestock,2024-03-21,183290.72,22.55,24,431,0.179,766,0
+b69415c7-1604-42b7-b424-b79c27b0816b,Girma Dejen,Harari,Construction,2025-05-26,54712.64,24.5,12,473,0.23,573,0
+325cba4e-bba9-4ec4-bef4-3c9c2484557f,Mikael Alemu,Tigray,Construction,2024-03-01,114518.62,18.29,36,203,0.15,736,0
+4a720071-14a9-4e59-ab13-13b795d14b6d,Selamawit Habtamu,South Ethiopia,Digital/Tech (Mobile Money Agents),2024-11-07,258910.58,21.05,18,149,0.256,482,1
+5ac92db2-eed4-4005-b922-2d87083a1c27,Hagos Solomon,Central Ethiopia,Digital/Tech (Mobile Money Agents),2023-12-11,89489.6,17.19,36,251,0.101,555,0
+62e0adf7-a315-4bbb-adb2-31a2cfcc2abd,Hiwot Abebe,Harari,Trade/Retail (Market Vendors/Suq),2024-01-27,327921.46,17.75,18,258,0.186,764,0
+191f9e05-e777-4701-b787-3461662c4f00,Girma Amanuel,Harari,Construction,2024-10-23,96189.28,20.02,24,421,0.163,729,0
+4f8c61b9-98d7-48d9-8d51-5b58eb91d7bc,Samrawit Yonas,Sidama,Services (Transport/Tourism),2024-02-15,195633.39,24.47,6,338,0.142,726,0
+e03d1b30-adcd-495f-af91-a7be905c3fd9,Meron Tariku,Oromia,Construction,2023-10-02,352662.42,24.54,12,283,0.173,666,1
+aeee2302-23a1-4fdd-9402-c7becdebdd3c,Haile Dejen,South West Ethiopia,Construction,2024-05-20,259063.91,14.58,36,181,0.377,702,0
+8de58a88-6a93-416a-a2bc-a1044001570a,Mignot Girma,Gambela,Trade/Retail (Market Vendors/Suq),2023-11-11,35652.91,24.21,12,245,0.344,478,0
+4c1e172a-15e9-4ee4-8e14-39774d126ab1,Ermias Abebe,South Ethiopia,Construction,2023-11-11,200979.12,13.77,18,220,0.295,526,0
+8bbb8f3f-760e-46aa-a0d9-80baed57a5c8,Aster Adane,Gambela,Livestock,2025-06-04,73414.16,15.68,24,154,0.232,605,0
+d57758f5-e03c-43df-884b-bdf5603f4ddc,Berhanu Addis,Amhara,Construction,2023-10-17,164729.37,20.56,6,376,0.213,649,0
+7120721e-86cd-4214-a37b-efd118963a6e,Lencho Elias,Somali,Agriculture (Smallholder Farming),2024-11-14,67580.96,12.42,18,63,0.498,597,0
+af66dc57-ef54-4897-80fa-07e35031d661,Adane Worku,Oromia,Trade/Retail (Market Vendors/Suq),2025-12-19,398395.65,21.6,18,255,0.106,666,0
+776ffd03-6d7b-4a17-9aac-72b177e7ad81,Emebet Girma,Benishangul-Gumuz,Manufacturing (Textiles/Food Processing),2024-07-14,168407.09,21.7,36,220,0.29,605,0
+071592d9-7616-4503-a906-b588f62162ab,Jemal Kebede,Amhara,Trade/Retail (Market Vendors/Suq),2024-10-20,280553.16,26.34,24,253,0.126,634,0
+6bc152ad-c44b-44e8-b51e-2df306c3998e,Dagmawit Addis,Sidama,Digital/Tech (Mobile Money Agents),2025-05-23,64458.98,20.2,36,193,0.158,700,0
+e8273dee-9d7e-4eb7-a3fd-6adec17fcf19,Hagos Mesfin,Somali,Livestock,2023-05-23,71114.7,20.65,36,94,0.236,630,0
+831ffc00-9490-429d-be1e-0693c960b851,Frehiwot Zewdu,Tigray,Livestock,2024-04-19,379186.38,18.26,36,409,0.112,566,0
+e660a8e0-8b13-4689-9ef2-a148209515d5,Samrawit Addis,Sidama,Services (Transport/Tourism),2024-08-07,99695.95,21.89,18,216,0.112,850,0
+c15da547-0db4-497a-8b18-8a0de0b7d818,Marta Birhanu,Central Ethiopia,Services (Transport/Tourism),2025-06-02,174524.77,12.31,12,483,0.277,795,0
+01862029-ab8a-4015-a727-3710203d54c9,Addis Amanuel,Amhara,Manufacturing (Textiles/Food Processing),2024-09-06,137002.13,19.6,36,213,0.17,751,0
+849c30c6-dffa-48ae-8353-ac87ceb7138a,Dejen Birhanu,Sidama,Agriculture (Smallholder Farming),2024-12-24,279253.4,14.33,36,117,0.418,592,1
+0e00583d-15ac-47f0-8de9-a283d6d5aed2,Aster Hakim,Tigray,Digital/Tech (Mobile Money Agents),2024-12-20,67986.91,25.89,12,438,0.154,818,0
+1b678ec1-a65e-483b-bc75-de3dd473f3b5,Marta Eskinder,Oromia,Agriculture (Smallholder Farming),2024-02-29,341697.58,26.91,12,44,0.486,300,1
+4a633fc3-d26a-4b27-98ef-25019826a55f,Eden Kebede,Amhara,Digital/Tech (Mobile Money Agents),2024-06-07,245836.82,19.67,24,235,0.268,589,0
+dd43b0cf-54d0-4314-b0ca-b2497b417aed,Bereket Mikael,South Ethiopia,Agriculture (Smallholder Farming),2025-06-02,369087.79,13.23,36,179,0.422,566,1
+aca65492-95a9-4dd7-bd8f-a26f1f16de17,Konjit Robel,Dire Dawa,Digital/Tech (Mobile Money Agents),2023-04-10,280750.43,14.76,12,193,0.253,641,0
+b39a442b-0d92-4c7e-b78a-2037bd46ebd5,Selamawit Hakim,Gambela,Construction,2025-03-09,39350.46,20.72,36,89,0.327,674,0
+bd8c6f4f-8fe2-45b1-a4e7-23838429e12c,Adane Alemu,Afar,Trade/Retail (Market Vendors/Suq),2023-11-20,196590.37,20.98,24,117,0.315,715,0
+acf96a12-e522-466c-b93a-26ee22eb4a7f,Ephrem Bekele,Sidama,Trade/Retail (Market Vendors/Suq),2025-02-13,82218.62,20.88,12,320,0.23,850,0
+a0d44d24-4d07-4581-a79f-5df0da2d6df9,Meklit Kaleb,Sidama,Manufacturing (Textiles/Food Processing),2025-09-25,163752.72,19.49,6,304,0.263,655,0
+01a6c260-efc0-4273-bd39-7fe7b819b15d,Jemal Birhanu,Central Ethiopia,Manufacturing (Textiles/Food Processing),2024-05-02,212272.05,24.47,36,494,0.201,668,0
+1d5d8f65-3361-4134-b012-00ab9fa87040,Natnael Mikael,Central Ethiopia,Construction,2025-01-28,288437.66,24.68,24,186,0.189,684,0
+e14110b6-9a92-4655-a72c-74820002572a,Blen Amanuel,Dire Dawa,Livestock,2023-04-20,170543.81,13.73,12,291,0.171,703,0
+344c96cc-3f48-45f0-98cc-0e298513176c,Emebet Bereket,Addis Ababa,Construction,2023-07-13,108154.97,17.68,18,405,0.128,681,0
+817c6779-d52d-4f91-864f-e16479472ea4,Samuel Tadesse,Somali,Agriculture (Smallholder Farming),2023-06-15,259971.37,21.87,36,162,0.411,583,1
+1f2f087d-ed11-4faf-8e3f-49126405d362,Assefa Zewdu,South Ethiopia,Livestock,2024-11-25,244799.32,22.58,18,147,0.364,666,1
+2f1d80ea-fb91-4b90-bbd5-0aeb679111dd,Leulit Worku,Amhara,Agriculture (Smallholder Farming),2024-04-15,371601.67,27.84,6,119,0.416,549,1
+42a1279b-8bf5-4aed-9904-b887d77b03b3,Helen Elias,South Ethiopia,Agriculture (Smallholder Farming),2024-01-05,317164.45,12.44,12,98,0.311,572,0
+a87d2106-dbfb-4ea4-b06a-d042ae6b0455,Helen Natnael,Gambela,Digital/Tech (Mobile Money Agents),2025-08-14,205454.99,17.9,24,109,0.237,510,0
+a2ddd15a-2570-46e8-aeae-bb601f89cec2,Tirhas Haile,Dire Dawa,Construction,2025-08-21,113476.39,22.44,6,478,0.201,808,0
+be9e01a9-d18c-4fde-a445-8bad2f4f914c,Hiwot Addis,Oromia,Agriculture (Smallholder Farming),2023-02-08,115776.39,24.72,12,99,0.346,604,0
+bdddbd36-82f2-459e-abb7-f1463d9d542a,Aberash Zewdu,Central Ethiopia,Manufacturing (Textiles/Food Processing),2025-10-23,286077.89,14.92,36,329,0.121,716,0
+7affd9bd-79e5-4450-b34a-34a88bf349a3,Worknesh Gemechu,Addis Ababa,Livestock,2025-12-27,137630.38,22.53,12,396,0.122,630,0
+f58703c5-199a-43da-aae3-9bc04a1954ec,Kidist Abebe,Dire Dawa,Manufacturing (Textiles/Food Processing),2024-03-31,162724.73,13.2,12,248,0.186,521,0
+467248f6-aaee-4d68-9e09-f48e7e32e5d0,Rahel Robel,Harari,Digital/Tech (Mobile Money Agents),2025-07-08,27679.21,17.79,12,240,0.236,811,0
+1b7a5c94-ccc3-4f70-b299-5e1862c526ab,Abeba Addis,South Ethiopia,Trade/Retail (Market Vendors/Suq),2024-09-04,154096.7,18.77,36,117,0.31,609,0
+25ee3dfd-6cc1-4a4d-9041-1dec6ab9ba0f,Berhanu Tsegaye,Gambela,Digital/Tech (Mobile Money Agents),2024-12-26,380147.86,27.84,12,89,0.297,815,0
+907001b6-1ec0-4c35-b503-5829488e5bd8,Mikael Bekele,Central Ethiopia,Construction,2023-02-18,226697.56,22.15,18,263,0.257,667,0
+08b9b2e9-4d81-4859-949e-24ad02d22ee7,Hagos Eyob,Benishangul-Gumuz,Agriculture (Smallholder Farming),2024-09-01,190127.14,22.23,24,135,0.391,525,1
+9eb03954-a83d-42df-a4aa-212aa68213c7,Aberash Amanuel,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-10-04,77885.01,19.82,12,229,0.352,618,0
+5acf614a-e834-4b5b-a879-c9a60ae9eacc,Sara Adane,Amhara,Services (Transport/Tourism),2024-11-26,144535.21,13.68,18,376,0.272,579,0
+75566ff1-b91a-4e28-a1e6-8d3577c8c297,Hirut Eyob,South Ethiopia,Agriculture (Smallholder Farming),2023-08-10,397991.42,16.84,18,131,0.348,680,1
+5b9559d0-2887-4d02-bb54-35ba0255b13b,Bereket Birhanu,Benishangul-Gumuz,Construction,2024-03-11,85082.36,23.35,36,109,0.23,598,0
+35f5afea-80d2-457b-9c6b-f2c8db184d46,Selamawit Mikael,Addis Ababa,Trade/Retail (Market Vendors/Suq),2025-02-21,184755.53,27.57,12,219,0.278,583,0
+63fff4b5-866a-4c09-b4cb-22f4e70d8d07,Hakim Girma,Oromia,Agriculture (Smallholder Farming),2024-06-30,207406.33,20.47,18,65,0.403,526,1
+26c25405-a7ea-42f0-acab-d3d710116af4,Meron Lencho,Harari,Manufacturing (Textiles/Food Processing),2025-03-12,287378.64,23.4,6,482,0.121,848,0
+56dbc7ac-902a-43ae-b81e-1682a7eb4008,Sisay Birhanu,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-07-05,276155.66,13.37,18,86,0.32,605,0
+23d99d90-c964-4746-9bd1-65a3b716307d,Alemu Tewodros,Tigray,Trade/Retail (Market Vendors/Suq),2024-12-19,311596.19,23.29,36,387,0.121,711,0
+4d8cd019-a88f-485a-833a-402ec8f3332a,Natnael Abebe,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2024-03-13,71140.08,25.65,24,242,0.332,525,0
+a5278097-d6de-4902-aa89-7692117637b2,Girma Tewodros,Somali,Digital/Tech (Mobile Money Agents),2024-09-08,122276.68,26.5,24,127,0.278,614,0
+9b1872ac-78c4-427f-b66a-015b6063cb32,Jemal Ephrem,Harari,Manufacturing (Textiles/Food Processing),2025-01-26,58678.89,24.75,6,487,0.216,699,0
+ed6ae39f-b560-4484-9377-49f62e2d0681,Marta Ermias,Dire Dawa,Agriculture (Smallholder Farming),2025-10-25,53724.32,18.1,12,120,0.455,600,0
+425ca2e3-8682-462f-a8ae-013ac6807bb4,Zewdu Eyob,South West Ethiopia,Agriculture (Smallholder Farming),2025-03-03,296938.78,12.25,12,72,0.476,623,1
+f487a21f-96bf-42dd-92f6-af5ab2a0f851,Zewdu Yosef,Sidama,Digital/Tech (Mobile Money Agents),2023-07-26,219176.35,16.62,6,217,0.163,540,0
+d4736d37-9e12-47cf-95a1-5905591cc4b6,Tewodros Addis,Gambela,Digital/Tech (Mobile Money Agents),2025-06-26,104734.77,21.74,12,187,0.364,505,0
+da1eb729-078e-4e4e-8b80-79d7114c440d,Berhanu Mesfin,Tigray,Manufacturing (Textiles/Food Processing),2024-09-24,337045.29,23.87,36,216,0.268,647,0
+1b314321-aa4e-4b03-98b6-dfc73b50f94f,Meron Hakim,Dire Dawa,Services (Transport/Tourism),2023-09-10,221157.46,21.83,18,193,0.186,548,0
+52db575a-79f6-43e8-ade8-1084ef29f413,Fikre Samuel,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-02-19,197049.36,22.53,18,382,0.178,617,0
+ead217d1-cefd-4dee-8590-f851fb385671,Kidist Tadesse,Tigray,Livestock,2023-12-31,140103.84,16.86,24,206,0.174,628,0
+2c8b2151-e179-4fcd-a658-eb6a1afd943c,Blen Birhanu,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2024-01-08,27952.92,27.79,24,135,0.262,568,0
+ec20d201-6b88-4cd0-b92b-7b46c17d049c,Konjit Ephrem,Sidama,Construction,2024-08-24,298037.25,16.7,18,362,0.203,573,0
+1d4e2772-401f-45a6-9ca5-b74f0fda6ca4,Bereket Eyob,Harari,Construction,2023-04-15,138811.93,23.6,24,372,0.21,781,0
+7108022a-12a8-4ff7-bffb-bc83d8c80184,Eden Kaleb,Sidama,Agriculture (Smallholder Farming),2023-03-05,146295.05,21.52,6,95,0.334,508,0
+078aa79e-d736-4320-a19c-7caf9b45c430,Selamawit Eyob,South Ethiopia,Livestock,2024-08-09,328288.97,23.33,18,167,0.353,513,1
+73131038-b2df-4075-9b8f-abe952377d88,Zewdu Gemechu,Somali,Services (Transport/Tourism),2023-10-03,389043.22,23.48,36,182,0.353,571,0
+92e33940-a32c-4e99-bd26-a41b221a7c4e,Worku Worku,Amhara,Digital/Tech (Mobile Money Agents),2024-08-14,231262.57,18.87,6,333,0.103,591,0
+7db8ed71-40a3-423b-b21a-92403321cbb0,Hagos Getachew,Benishangul-Gumuz,Services (Transport/Tourism),2025-05-19,53625.38,22.1,18,176,0.259,652,0
+33815e0d-39ba-443a-893d-269eadc90caa,Yonas Tariku,Harari,Services (Transport/Tourism),2024-11-15,192178.01,18.27,36,281,0.23,850,0
+cf052461-874d-44a6-9057-ab856f1ec0de,Mulugeta Abera,South Ethiopia,Livestock,2023-09-14,134239.61,24.36,36,197,0.375,455,0
+a10db956-0634-4af6-9505-06dd16054b9e,Askale Dejen,Amhara,Agriculture (Smallholder Farming),2023-10-31,285728.82,16.55,12,42,0.353,548,1
+cf5cbd7f-0882-4d14-b41b-2c0918a0f6c0,Bezawit Fikre,Harari,Manufacturing (Textiles/Food Processing),2025-11-09,246708.71,13.97,24,397,0.185,772,0
+c63e23bf-5c0c-409c-8157-2a56e4aeb85f,Tesfaye Sisay,Oromia,Livestock,2023-08-12,99649.14,25.08,18,437,0.142,598,0
+126c4e50-dd4f-4af2-8bec-b8cc917bc866,Tewodros Sisay,Oromia,Manufacturing (Textiles/Food Processing),2024-09-30,54725.68,23.43,12,223,0.139,622,0
+f52eaf63-badf-47a8-aeaf-39512f701b32,Dejen Solomon,Dire Dawa,Services (Transport/Tourism),2024-06-18,264783.2,15.74,12,401,0.133,668,0
+d5185b72-30ac-4fda-bf05-5b1087352231,Aster Bereket,Dire Dawa,Livestock,2025-09-29,177171.77,15.74,6,428,0.11,810,0
+8037b969-7946-4eae-93dc-00ee9203c5d2,Bekele Adane,Dire Dawa,Agriculture (Smallholder Farming),2023-11-24,288960.03,25.77,36,143,0.302,552,0
+8f06c963-e656-44ac-9e54-a1755b429d0e,Tsion Kaleb,Afar,Services (Transport/Tourism),2024-07-05,396255.14,16.04,24,93,0.295,467,1
+6d7168e9-705a-401c-9131-0c8bcd35637c,Kebede Ermias,Tigray,Digital/Tech (Mobile Money Agents),2023-08-08,338490.02,23.94,12,305,0.279,596,0
+91b3f921-1224-415f-9fbc-f340604948be,Yonas Abera,Afar,Construction,2025-09-03,45128.81,27.94,12,83,0.308,523,0
+4c589a8e-846a-4a71-884a-89b8208fae02,Eyob Natnael,Addis Ababa,Trade/Retail (Market Vendors/Suq),2023-05-07,223609.13,27.08,36,401,0.13,591,0
+0d2dba72-3b06-4d82-bfab-9b071e307f10,Tsehay Abebe,Somali,Services (Transport/Tourism),2023-06-11,318964.2,12.99,12,123,0.233,613,0
+39597465-05c5-4810-94b7-28fa8a60b332,Berhanu Gemechu,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2025-07-28,168447.17,12.72,6,183,0.373,654,0
+63f2fc26-405a-4f9e-9401-8a45ec1a1adc,Berhanu Dejen,Dire Dawa,Services (Transport/Tourism),2024-03-31,102615.91,16.19,18,481,0.188,502,0
+df18e065-df58-44d5-9165-5b1e5b9facde,Berhanu Hakim,Gambela,Trade/Retail (Market Vendors/Suq),2026-01-02,324929.52,19.7,12,212,0.325,614,0
+88cfffa2-1324-47ee-89be-e3ddf7d65f6a,Tadesse Zewdu,Addis Ababa,Agriculture (Smallholder Farming),2023-09-08,134010.66,20.42,18,99,0.456,493,0
+ee8b09a3-848b-4725-9a6b-00603dcc4915,Eyob Lencho,Afar,Agriculture (Smallholder Farming),2025-06-17,280768.08,27.06,18,136,0.425,604,1
+9e5f8378-6633-427e-8fee-ea91800314a8,Berhanu Lencho,South Ethiopia,Digital/Tech (Mobile Money Agents),2025-08-12,50912.71,25.95,6,99,0.303,542,1
+1c6244f4-e44d-4dc2-b290-88928bc2d46d,Abera Worku,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2023-04-03,158505.66,26.45,12,227,0.223,676,0
+fc24a159-eada-4885-afda-70bf78920f72,Elias Eyob,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2025-06-29,163987.99,18.85,36,373,0.204,543,0
+568a220d-0843-480a-87ac-a3fea73a366e,Eskinder Habtamu,Amhara,Construction,2024-02-18,17236.66,21.76,36,310,0.266,651,0
+e355ce16-55a4-4eab-b354-b4be42c91aaf,Selome Gemechu,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-10-21,154389.5,24.94,12,335,0.148,679,0
+d11756d5-8c0d-4a8b-b448-a24723a86b61,Kidist Kaleb,Sidama,Manufacturing (Textiles/Food Processing),2023-04-08,266923.29,17.88,24,182,0.241,775,0
+e98dc5f7-a9d0-4567-81e1-58aaec96af27,Tsion Natnael,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2024-06-01,304421.47,20.27,6,229,0.312,662,0
+ce3fde9a-12aa-4ab4-be59-a0d13c5168b0,Ermias Robel,Harari,Construction,2023-04-12,191814.5,27.43,24,500,0.258,540,0
+d5c2c94d-b3fd-42b8-9c29-1269e781c4cc,Zewdu Lencho,Sidama,Digital/Tech (Mobile Money Agents),2025-05-30,251028.69,21.21,18,270,0.171,590,0
+f32d2812-121d-47ac-bb26-7d27588955c0,Samuel Hakim,Tigray,Livestock,2023-03-01,233825.45,18.85,6,351,0.147,689,0
+edeac5b8-9cc8-42cd-bd42-11d1992033eb,Almaz Yonas,Tigray,Services (Transport/Tourism),2024-10-13,36393.31,17.89,36,213,0.259,591,0
+f2546c17-7a90-4486-8d2a-3484e3346bd8,Aster Yonas,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2023-05-11,375891.43,13.23,36,95,0.374,404,1
+1aa3c18e-0aaf-4962-b92c-23e3454009f2,Marta Kaleb,Dire Dawa,Services (Transport/Tourism),2023-07-26,220244.71,24.75,24,369,0.252,532,0
+a67c7bd7-39a9-48a9-81f2-5a737f20f661,Askale Sisay,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2023-03-02,67789.31,12.76,18,406,0.215,680,0
+c8132025-4dac-433c-ba43-82176e77cdd3,Almaz Ermias,South Ethiopia,Services (Transport/Tourism),2024-07-03,220245.16,15.18,12,166,0.306,574,0
+06bf1fb7-0e2b-48c9-ae66-2c46057d4e28,Nardos Robel,Somali,Livestock,2023-12-25,321828.52,19.39,36,221,0.244,516,0
+611f98ef-dc3c-423a-9bae-fd9e88c06786,Kebede Gemechu,Amhara,Construction,2023-11-06,298034.45,19.67,24,432,0.182,715,0
+8d70600f-04a1-4d66-bce8-8f22af001605,Kaleb Berhanu,Central Ethiopia,Manufacturing (Textiles/Food Processing),2025-11-30,22835.21,16.74,6,260,0.257,673,0
+60920068-c403-4430-a31a-9c3c0d591303,Mahlet Amanuel,Somali,Digital/Tech (Mobile Money Agents),2025-01-24,293852.01,21.95,12,162,0.342,693,0
+6d44f723-b38a-4f82-ae02-0a88200f8ed9,Marta Bekele,Central Ethiopia,Digital/Tech (Mobile Money Agents),2025-12-21,330400.55,22.33,24,306,0.172,850,0
+1e34c29a-701d-4db0-9d96-dc532344ec54,Jemal Berhanu,Gambela,Construction,2025-05-08,351759.35,16.36,36,117,0.275,613,0
+5a0ed9b7-5e22-47d4-a74f-232bfb876271,Askale Bereket,Amhara,Digital/Tech (Mobile Money Agents),2025-08-19,79795.11,22.62,36,459,0.278,725,0
+0ed40264-eb06-4b1e-afc0-174f57d714f1,Jemal Berhanu,Central Ethiopia,Livestock,2023-11-02,91138.2,26.02,12,436,0.195,637,0
+02929d3d-96af-428a-978c-b5a03b668afa,Leulit Elias,Amhara,Construction,2024-01-10,34199.91,19.62,24,225,0.149,738,0
+e369f1c0-c0a8-4dbd-bf5a-910f69bea8c9,Birhanu Eskinder,Harari,Trade/Retail (Market Vendors/Suq),2023-12-24,186679.37,24.35,24,210,0.252,676,0
+cd409bc9-fdae-4920-8bb8-382f916ba250,Dawit Berhanu,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-04-17,254087.78,23.21,36,188,0.26,786,0
+d007fd07-3ffa-4a11-b846-9295df8db157,Bekele Tadesse,Gambela,Construction,2023-01-29,297440.1,22.6,18,226,0.308,586,0
+704532d5-2070-43f0-8e80-ea41139cd2b0,Mulugeta Gemechu,Gambela,Livestock,2023-04-04,33830.15,25.51,12,231,0.328,633,0
+5983ce94-506a-4dd3-8b31-324f485835db,Almaz Eyob,Central Ethiopia,Construction,2023-10-13,331051.88,23.34,18,253,0.124,744,0
+ff82bf84-3e86-4c14-a3f2-df80a7bbc612,Ephrem Sisay,Benishangul-Gumuz,Services (Transport/Tourism),2025-07-29,175957.34,18.62,24,132,0.291,750,0
+7a8c2c36-65d7-4163-9b2a-eea621351574,Haile Berhanu,Harari,Trade/Retail (Market Vendors/Suq),2024-04-04,89042.04,22.68,36,481,0.217,703,0
+138d8006-13a9-4a92-a816-4d181f540e96,Selamawit Eskinder,Gambela,Livestock,2025-10-23,158373.34,12.9,36,147,0.328,562,0
+7eb3aefc-34b3-4dcb-8b2c-65b5f0390686,Lencho Mulugeta,Afar,Construction,2024-01-29,275874.09,26.59,24,178,0.352,382,0
+e5cbbf13-5b61-4ebe-903c-9c2cbc3749b1,Eden Yosef,Gambela,Manufacturing (Textiles/Food Processing),2026-01-05,103514.1,17.96,6,185,0.238,606,0
+f1015bfe-4d7e-4c8e-b68f-f0dc718bf53a,Eskinder Mikael,Amhara,Digital/Tech (Mobile Money Agents),2023-12-14,59844.28,17.64,6,196,0.198,616,0
+de74e122-4aed-4cc8-8d28-eef5c7bbbcf8,Mignot Habtamu,Central Ethiopia,Livestock,2024-07-29,380828.0,16.41,36,194,0.103,684,0
+447d30b8-e49a-4cd9-86df-42bd3e84455f,Girma Haile,Benishangul-Gumuz,Construction,2025-10-17,63736.35,12.67,36,88,0.281,513,0
+1ab88733-80e1-4c41-8a9a-727fb2a12a55,Natnael Hagos,Amhara,Services (Transport/Tourism),2024-05-15,132197.85,18.68,18,290,0.129,583,0
+b49bc1ef-692c-4843-a682-471058bd19da,Fikerte Lencho,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2023-03-30,28142.21,20.32,18,216,0.26,583,0
+341c2d10-1415-4ad9-879f-ea147c781b98,Ruth Girma,Oromia,Livestock,2025-08-29,366904.89,23.59,18,225,0.247,727,0
+3b046707-855f-4cc6-b9d7-1979d767a6da,Ermias Birhanu,Sidama,Trade/Retail (Market Vendors/Suq),2023-08-07,152516.09,14.91,6,217,0.224,668,0
+1f6c6a86-35f4-4fba-8d8f-2868bdedb9cc,Berhanu Hakim,Addis Ababa,Services (Transport/Tourism),2024-04-23,292234.95,19.92,36,482,0.178,683,0
+24579251-c9b6-4093-90fe-42afb993c041,Abebe Tesfaye,Tigray,Services (Transport/Tourism),2024-08-06,153089.31,23.98,12,199,0.257,641,0
+70b6052f-b2c6-4986-bc2f-db76fa584a4b,Marta Mulugeta,Gambela,Digital/Tech (Mobile Money Agents),2023-03-02,359404.56,17.46,6,98,0.269,506,0
+1d3ebe5b-f3fa-4150-b429-cf81c3a215ff,Fikre Gemechu,Afar,Agriculture (Smallholder Farming),2025-10-11,30656.9,17.98,12,106,0.444,669,1
+4532499e-08a4-4ec0-9619-68aa7fb866b2,Kidist Bekele,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2023-02-08,267446.58,23.74,6,133,0.364,478,1
+d3c1fe3f-4ce7-4b3f-a259-66cc9696e833,Ermias Tesfaye,South Ethiopia,Manufacturing (Textiles/Food Processing),2024-03-12,134381.03,18.91,36,104,0.334,667,0
+9c186d49-dac5-409e-8772-9adf0f49d01a,Eskinder Worku,Gambela,Agriculture (Smallholder Farming),2023-05-17,295378.59,24.99,6,122,0.457,498,1
+61f14c98-dcde-4dc8-84d3-40e87ecfbfc6,Sisay Solomon,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-08-24,393603.35,21.11,6,132,0.252,702,0
+34aababd-3975-4433-8b5e-d14871ab4711,Alemu Tariku,Benishangul-Gumuz,Livestock,2024-08-25,370648.43,14.86,6,114,0.233,521,0
+88516447-6e5b-4598-a8f0-e3e02f369832,Meklit Dawit,Afar,Digital/Tech (Mobile Money Agents),2024-08-17,267473.32,17.28,36,247,0.36,532,1
+8aa2f756-0803-4d31-8e1e-2f3da91022b8,Mulugeta Tadesse,Tigray,Digital/Tech (Mobile Money Agents),2023-03-28,54041.37,13.05,24,333,0.236,815,0
+9bd65690-e8f9-4c88-86a7-6b07efede7bb,Tsehay Getachew,South West Ethiopia,Digital/Tech (Mobile Money Agents),2024-06-29,97906.82,15.85,12,191,0.312,750,0
+43355860-e84e-4da0-9402-2243ec35fb0c,Roman Ephrem,Benishangul-Gumuz,Livestock,2024-06-11,305547.19,22.73,24,128,0.292,626,0
+5748218a-0700-4750-81db-480a376f6fff,Bekele Solomon,Addis Ababa,Construction,2025-07-12,396177.41,25.11,24,334,0.108,742,0
+c8594dfb-6d73-4d1d-9da1-497a6f1f9af1,Lencho Ephrem,Dire Dawa,Livestock,2025-08-28,291373.12,20.81,36,326,0.242,585,0
+635b36bd-8da4-4fbe-9bf5-3332ceb18cd3,Mulugeta Samuel,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-04-04,31027.51,21.17,6,100,0.438,662,1
+f01f333c-fdab-4afa-9bc7-945d499441c5,Rahel Mikael,Addis Ababa,Manufacturing (Textiles/Food Processing),2025-11-24,30341.32,13.59,36,401,0.226,815,0
+b81ed083-9296-44b5-ac80-73b776a81a27,Ephrem Getachew,Gambela,Digital/Tech (Mobile Money Agents),2025-04-15,334371.24,25.64,18,168,0.248,773,0
+299ccd73-4295-45c9-84d7-7929c4ddfe54,Genet Robel,Somali,Manufacturing (Textiles/Food Processing),2025-06-06,311852.43,24.55,18,99,0.257,637,1
+ecb697a2-fe1b-43e9-bee1-dc6577a319c6,Bezawit Birhanu,South Ethiopia,Livestock,2024-08-20,299023.46,17.11,6,199,0.237,501,0
+47dbf6a2-03e3-4f78-a85f-da5521c268f3,Bruktait Assefa,Central Ethiopia,Manufacturing (Textiles/Food Processing),2024-01-11,74881.46,14.36,24,489,0.157,495,0
+ffb1c192-15e5-4e78-863e-9bb3f37296a2,Tesfaye Abebe,Central Ethiopia,Agriculture (Smallholder Farming),2025-12-01,18058.12,13.55,36,127,0.358,488,1
+56688530-4bbb-4e9a-8af5-3d42c5767c74,Meklit Hakim,Amhara,Services (Transport/Tourism),2024-01-29,228656.17,13.92,18,438,0.138,627,0
+46368d12-9d94-413f-89e2-18a7650495b5,Eyob Addis,Somali,Construction,2025-06-11,334110.84,13.58,6,196,0.243,704,0
+c84d16c0-4021-4347-a8c3-4b2544cca057,Nardos Robel,Somali,Services (Transport/Tourism),2024-07-20,129245.94,18.53,24,173,0.268,744,0
+0328a80d-9ba5-458b-8585-36b7cf6d2a9d,Selamawit Mesfin,Addis Ababa,Construction,2025-10-16,266759.27,20.23,6,222,0.116,569,0
+522c5c44-a928-45b2-9185-5abd4e90ae4a,Dagmawit Hagos,Addis Ababa,Livestock,2023-07-18,171609.44,22.07,24,440,0.241,782,0
+76751903-719d-422f-adc4-d065d8fbd542,Genet Abera,Addis Ababa,Livestock,2024-02-20,68126.46,17.54,36,407,0.108,630,0
+09791408-7768-4441-8245-59a5709de505,Dawit Dawit,Somali,Livestock,2023-02-01,195472.33,25.71,24,184,0.308,583,0
+8e7de390-d825-4478-a343-21bf7aeee7df,Tariku Zewdu,South West Ethiopia,Livestock,2024-07-16,369501.13,19.21,6,204,0.28,724,0
+f057712b-945e-487f-8eff-6a6b689ab92d,Dawit Mesfin,Gambela,Trade/Retail (Market Vendors/Suq),2023-12-10,267197.07,12.95,12,208,0.373,644,0
+8d2bb00b-9c3e-4d79-a5a4-b1b446c524a5,Samuel Lencho,Afar,Trade/Retail (Market Vendors/Suq),2023-05-09,258093.25,15.0,12,116,0.247,577,0
+2e07a11f-70c0-44f6-9065-2764f40b0779,Eyob Bekele,Afar,Services (Transport/Tourism),2024-05-07,265284.84,20.07,6,217,0.336,416,0
+42714418-46b1-454a-8967-82fbc4170ebd,Tigist Assefa,Amhara,Services (Transport/Tourism),2024-02-10,151719.51,25.75,36,482,0.184,622,0
+2cabb9ad-a15d-47c4-ba38-204b2091a706,Dawit Zewdu,Dire Dawa,Agriculture (Smallholder Farming),2025-02-12,280053.74,24.48,36,108,0.348,474,1
+0cb140ed-a7ee-4f23-9e31-ecfddf0987e9,Hagos Yonas,South West Ethiopia,Agriculture (Smallholder Farming),2023-08-22,243227.16,14.75,6,103,0.321,667,1
+2f2b5e31-09db-40a9-a793-eb811d4c5eb7,Dejen Natnael,Central Ethiopia,Livestock,2024-01-02,205362.47,17.82,24,254,0.178,715,0
+9473b7cd-70b8-4530-9c4e-557f81b85934,Dawit Ermias,Benishangul-Gumuz,Agriculture (Smallholder Farming),2025-12-04,309555.06,15.33,18,165,0.377,781,0
+3a5b171c-b7a4-4108-8dac-20f90abd99fd,Haile Robel,Harari,Digital/Tech (Mobile Money Agents),2024-05-12,192591.72,24.96,12,194,0.238,787,0
+42516974-fdf1-4205-b6ec-b84ef3a2dc1d,Getachew Abebe,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-04-10,302924.92,24.46,36,113,0.491,468,1
+db847c06-d84d-4427-adaa-d2f90420521e,Blen Kaleb,Dire Dawa,Digital/Tech (Mobile Money Agents),2024-02-09,356691.38,24.36,18,244,0.267,687,0
+99bf88ed-0b73-4040-b7e3-c6158a5a5d57,Elias Abera,Benishangul-Gumuz,Manufacturing (Textiles/Food Processing),2024-07-07,66405.05,20.06,36,184,0.245,456,0
+81c6af40-13d5-4c4f-9bf2-235c5987e1e6,Aberash Tadesse,Oromia,Agriculture (Smallholder Farming),2024-01-05,51023.43,17.17,12,61,0.334,543,0
+3caaa31e-13d3-4726-82d3-39481cf98855,Abebe Ephrem,Amhara,Livestock,2024-11-25,140241.87,25.44,18,434,0.217,760,0
+d44260d2-5f11-4839-9203-7fc25366e938,Tariku Hagos,Harari,Digital/Tech (Mobile Money Agents),2023-11-18,379016.55,15.31,36,239,0.278,701,0
+6d2d7cb9-a452-4559-9246-d2a56a7cfd08,Hagos Lencho,Sidama,Construction,2025-11-28,268324.93,22.38,24,308,0.111,444,0
+9b622c0a-5398-4922-8652-62a224a0db6e,Tewodros Hakim,Sidama,Digital/Tech (Mobile Money Agents),2024-03-20,307195.0,20.39,6,343,0.102,759,0
+e5bb7f3b-687b-43ce-b9a0-13be55c1a0d9,Zewditu Birhanu,South West Ethiopia,Services (Transport/Tourism),2024-07-18,74408.0,27.31,36,226,0.256,499,0
+f9375fff-f146-46f1-b87e-d06b5fed5cb7,Worku Robel,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2025-10-14,245280.1,18.01,36,80,0.277,632,0
+5e4908c8-290a-42d2-87f9-ee879f35e95d,Worknesh Bereket,Addis Ababa,Construction,2024-04-06,394578.42,21.43,18,363,0.11,625,0
+e9707c9e-266a-4b90-ae28-b2f44a76a0ea,Selamawit Ephrem,Dire Dawa,Construction,2023-03-16,251032.67,19.83,6,378,0.274,726,0
+362387b4-9be9-4c86-9b32-06f006897b1c,Blen Hagos,Harari,Livestock,2025-07-12,286454.27,27.4,18,370,0.203,688,0
+bdf68eb0-c7e7-4797-b73c-91ca82c3892b,Solomon Hakim,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2024-05-06,277766.56,15.53,24,392,0.171,501,0
+5813d72f-b67c-42ac-94dc-4c97c8914d99,Jemal Lencho,Oromia,Agriculture (Smallholder Farming),2025-03-05,156229.61,14.13,18,54,0.488,637,1
+0858714d-952a-4d00-94aa-826d60fba34c,Bereket Abebe,Oromia,Services (Transport/Tourism),2023-12-05,13795.07,17.91,12,425,0.209,819,0
+c33a8761-618f-478a-a66b-4b6db9ec28ff,Bereket Yosef,Tigray,Manufacturing (Textiles/Food Processing),2025-10-22,175928.75,14.46,18,317,0.276,750,0
+f5687574-13ca-4eb6-b486-a2511414f827,Genet Dejen,South West Ethiopia,Livestock,2025-10-10,65830.96,17.26,6,216,0.291,577,0
+930e7347-ff70-4baa-80e5-1b3d90be35ee,Fikre Amanuel,Afar,Services (Transport/Tourism),2023-12-20,71293.5,20.94,12,134,0.326,544,0
+89f9c43e-6b07-4c79-bbe4-3aa78c58fff0,Yohannes Zewdu,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-09-11,267926.44,19.5,12,337,0.19,694,0
+cc5732f2-871b-4b1f-a0e4-0a11d8fbfda5,Emebet Fikre,Tigray,Manufacturing (Textiles/Food Processing),2023-07-13,250651.16,14.17,36,235,0.167,698,0
+86423a80-a8c1-4f22-b8ea-904d9b6b0992,Frehiwot Adane,Benishangul-Gumuz,Livestock,2023-03-26,52373.02,17.96,36,87,0.259,722,0
+31ed10f5-44e9-48ac-9122-f00170e68474,Worknesh Ephrem,Addis Ababa,Trade/Retail (Market Vendors/Suq),2025-03-24,180144.18,18.93,18,264,0.263,835,0
+5424aae4-3e78-4f27-a93b-da3b4b0653e2,Fikre Robel,Amhara,Trade/Retail (Market Vendors/Suq),2025-06-17,112144.86,21.72,12,497,0.204,703,0
+5ca9bc53-fa3b-4921-8484-4743cc8ba760,Zewditu Eyob,Amhara,Livestock,2024-01-18,219564.78,19.39,6,344,0.133,772,0
+f8ef0017-bf89-444e-9097-ce4674b0b243,Assefa Ephrem,Amhara,Agriculture (Smallholder Farming),2023-12-30,186962.09,26.12,18,45,0.33,780,0
+bb98abdf-71ec-42ad-bdb5-38c9b16d3da7,Haile Ermias,Gambela,Trade/Retail (Market Vendors/Suq),2023-07-04,211570.9,26.23,36,233,0.378,638,0
+8f7a1e43-5a1b-49db-9466-91895ca43e71,Berhanu Birhanu,Benishangul-Gumuz,Trade/Retail (Market Vendors/Suq),2024-10-03,155343.68,23.73,36,115,0.285,729,0
+a740a142-5cbf-4ee6-aa25-8d831391d18a,Kaleb Solomon,Gambela,Manufacturing (Textiles/Food Processing),2025-03-01,223804.21,20.63,36,125,0.234,715,0
+c94b3a6f-72ef-417e-baf8-34f29aef9aec,Selome Fikre,Sidama,Trade/Retail (Market Vendors/Suq),2025-01-27,190172.52,26.41,24,375,0.263,626,0
+d3a81c4f-d3ec-4562-91c0-69ee3ad1c48f,Selamawit Hakim,Amhara,Trade/Retail (Market Vendors/Suq),2024-10-17,289746.67,18.32,18,196,0.142,613,0
+c6c55054-3eb4-4527-89a1-321decfbc936,Hagos Alemu,Afar,Digital/Tech (Mobile Money Agents),2023-07-19,139393.23,19.37,6,157,0.373,662,0
+235d2722-aa78-48aa-95b2-868bac92275a,Selamawit Eyob,Afar,Agriculture (Smallholder Farming),2024-09-30,99254.73,15.06,24,64,0.404,529,1
+57713fff-4971-4ec3-8bbd-373242a1a429,Berhanu Girma,Amhara,Construction,2025-08-03,96215.69,19.29,12,288,0.16,679,0
+6bc822f4-6893-438a-94dd-93141e32e3e1,Birhanu Haile,Harari,Agriculture (Smallholder Farming),2024-05-07,72540.05,26.31,36,55,0.359,647,1
+7e83e815-9375-4195-a5fd-72f4fbb61ff7,Eyob Fitsum,Sidama,Construction,2025-02-28,385631.5,19.98,18,400,0.211,794,0
+e65e0ac3-32b6-4533-85cc-0fb0e1a62208,Eyob Mikael,Gambela,Construction,2025-09-14,190719.56,19.0,18,206,0.357,602,1
+2ab18038-03f8-4c7b-b43d-e03ae05c1fb9,Zewditu Haile,Benishangul-Gumuz,Agriculture (Smallholder Farming),2023-10-12,201179.11,17.79,24,76,0.499,581,1
+8df8dff9-c3f8-4f2d-836c-9e186b2b0c27,Zewditu Tewodros,South West Ethiopia,Trade/Retail (Market Vendors/Suq),2023-07-12,275855.82,26.95,12,139,0.345,516,1
+de94da10-205b-4db8-99da-d534be2badee,Konjit Bereket,Harari,Manufacturing (Textiles/Food Processing),2025-01-04,155756.07,14.22,36,218,0.259,752,0
+b0a6e457-0620-4f4a-ae71-8848d577c131,Bezawit Addis,South Ethiopia,Services (Transport/Tourism),2023-02-27,264380.04,20.11,12,193,0.244,514,1
+83d04bac-21e3-4238-92b1-178bfd6c47e3,Yosef Gemechu,South West Ethiopia,Services (Transport/Tourism),2023-09-22,292716.13,14.56,12,237,0.332,559,0
+6c1fb2fc-e77d-4bec-a35b-729ceb2ae08b,Solomon Lencho,Harari,Manufacturing (Textiles/Food Processing),2025-04-07,62739.18,17.04,24,395,0.158,603,0
+8e93abd2-b269-4b43-a6fe-47b320a0c244,Helen Samuel,Afar,Construction,2024-07-09,333336.77,24.18,24,245,0.25,693,0
+5639117a-1e78-4a02-8b1b-bb3ab6448d24,Feven Tadesse,Addis Ababa,Livestock,2024-01-16,301767.11,15.02,36,261,0.128,604,0
+1b96ee81-9ddb-4fea-9bd7-871c976b1a33,Fikerte Bekele,Addis Ababa,Manufacturing (Textiles/Food Processing),2024-06-11,319529.34,23.81,6,499,0.267,562,0
+5ade80d4-ebb4-4c9e-bd1e-9dd812e1725b,Fikre Getachew,Somali,Agriculture (Smallholder Farming),2023-03-17,140290.77,20.75,24,162,0.32,421,1
+73230f23-a17e-44b0-a8ac-039ce921f231,Sara Ephrem,Somali,Livestock,2024-12-03,256758.9,25.34,24,241,0.247,605,0
+b33aa6b9-7a23-4f3c-81f6-028b4a0efbe5,Blen Tadesse,Afar,Trade/Retail (Market Vendors/Suq),2024-11-12,369941.83,15.32,24,111,0.317,739,0
+c415ac73-b944-4469-aef6-a152bbc2ede6,Getachew Tadesse,Gambela,Livestock,2023-08-03,246304.49,19.91,36,152,0.366,471,0
+8266557c-efc6-4c4c-91f2-789bea956113,Marta Hagos,Harari,Agriculture (Smallholder Farming),2025-07-09,247159.46,21.98,6,113,0.388,617,0
+97f31baf-01fe-4d86-a545-fcc626fa466b,Mahlet Abebe,Addis Ababa,Agriculture (Smallholder Farming),2023-05-16,295747.42,13.77,12,156,0.342,535,0
+741a5b09-a63f-43ea-ac85-2cc75eb00e6f,Girma Robel,Oromia,Digital/Tech (Mobile Money Agents),2025-07-15,299328.08,23.42,12,304,0.153,850,0
+82380358-2d3d-4b8a-b047-3d9d520826b8,Eskinder Kebede,Benishangul-Gumuz,Manufacturing (Textiles/Food Processing),2024-08-17,197641.41,25.23,18,233,0.353,635,0
+18ce58d1-c5e3-4e15-b1dc-527047802d60,Hirut Yosef,Amhara,Trade/Retail (Market Vendors/Suq),2025-07-07,200352.56,18.1,24,454,0.25,505,0
+0c5c9940-5753-4534-be48-7b1c4c1f088f,Birhanu Lencho,Oromia,Trade/Retail (Market Vendors/Suq),2024-01-01,207863.98,14.27,24,391,0.224,548,0
+946f9f07-8673-473a-a5b5-8f3084868583,Mikael Eskinder,Oromia,Trade/Retail (Market Vendors/Suq),2025-05-31,383038.41,24.43,6,228,0.242,777,0
+49069da9-6d3b-467c-ad94-4378d814abe0,Meklit Abebe,Tigray,Manufacturing (Textiles/Food Processing),2025-03-05,306073.37,21.58,18,263,0.273,739,0
+2daca88b-c1de-4d58-918e-58fd62524390,Bezawit Eyob,Gambela,Manufacturing (Textiles/Food Processing),2024-05-21,57868.33,20.64,12,174,0.318,591,0
+bc106ec9-f1ee-4895-9061-76b30abc36fc,Birhanu Eyob,Benishangul-Gumuz,Services (Transport/Tourism),2023-08-16,396593.93,19.29,18,136,0.356,603,0
+933c3b76-473b-4cd4-84e6-078f6e37b721,Birhanu Yonas,Somali,Manufacturing (Textiles/Food Processing),2023-11-29,386744.72,27.15,18,178,0.329,547,0
+48e80f79-58eb-4462-9976-a39a507a61a9,Yordanos Assefa,Harari,Digital/Tech (Mobile Money Agents),2025-08-19,291446.83,21.89,18,481,0.116,600,0
+7c9428af-461a-4f63-89b0-16e51e595d1f,Zewdu Girma,Benishangul-Gumuz,Construction,2023-09-20,192415.59,17.71,18,110,0.308,702,1
+49d9bf73-2b58-4b3f-a2a6-3e3c3940093a,Aberash Tadesse,Central Ethiopia,Agriculture (Smallholder Farming),2024-11-17,211052.77,19.43,24,73,0.38,519,0
+1b2aa4e4-c0e3-44e7-9b2d-f807fd225cba,Frehiwot Ephrem,Oromia,Services (Transport/Tourism),2024-02-13,111152.67,23.89,6,253,0.165,625,0
+1891e25c-2418-47fd-8754-3604aa9b64ba,Jemal Tadesse,South West Ethiopia,Manufacturing (Textiles/Food Processing),2023-12-31,283758.48,12.72,24,206,0.282,705,0
+c13ed0d3-823a-4b12-96ba-f0f28d5a9549,Amanuel Dejen,South Ethiopia,Agriculture (Smallholder Farming),2023-11-23,387151.61,19.37,36,152,0.465,590,1
+0a2cbb1b-e70c-4274-9930-300a07006af3,Abera Tariku,Benishangul-Gumuz,Livestock,2023-09-25,16410.06,16.02,12,98,0.367,601,0
+01b4cdfc-31f4-46ea-8c8a-bd6989b4db80,Kaleb Ermias,Tigray,Livestock,2025-04-23,340537.48,25.79,18,182,0.211,670,0
+5e9a35cf-0699-476d-9288-b06ad51f03b1,Gemechu Birhanu,Harari,Digital/Tech (Mobile Money Agents),2025-02-02,356724.06,19.27,6,326,0.15,650,0
+9237e145-f2a8-4faa-b11a-31f5482680f9,Worknesh Adane,Tigray,Trade/Retail (Market Vendors/Suq),2023-11-17,206327.6,17.26,18,239,0.219,563,0
+204d3f55-8559-4d77-b1e0-07b0bb6a3647,Tsehay Elias,Addis Ababa,Manufacturing (Textiles/Food Processing),2024-10-29,305363.29,12.81,6,284,0.2,597,0
+b75c3825-1c0f-487f-ab01-bba74b814a84,Solomon Gemechu,Harari,Digital/Tech (Mobile Money Agents),2024-12-11,311009.1,15.48,12,304,0.14,731,0
+7e45fee4-6ea8-4b32-a38d-9fb071c487bc,Sisay Tesfaye,Sidama,Construction,2023-07-11,267269.71,12.28,18,342,0.144,483,0
+fe3a4f96-2306-41aa-9d50-0d6b163cb529,Roman Hakim,South West Ethiopia,Construction,2024-02-18,354826.56,24.6,24,83,0.32,726,0
+f7eba7e9-1dd0-4ec8-ab30-f1b1bb4c5947,Aberash Hagos,Somali,Trade/Retail (Market Vendors/Suq),2024-03-13,339018.83,21.52,36,189,0.346,644,0
+cb170945-be88-48e4-943d-bd6ccdbb6c1f,Getachew Tadesse,South West Ethiopia,Livestock,2024-07-08,131751.45,23.93,12,86,0.253,664,0
+281f45ff-53bd-4b05-9308-9f8bba345e82,Tewodros Tariku,Oromia,Services (Transport/Tourism),2023-12-17,330636.5,19.57,36,317,0.135,696,0
+a170920c-7416-486b-86af-040d55d8a81a,Tirhas Eskinder,Amhara,Livestock,2025-03-03,355641.94,22.41,12,396,0.126,850,0
+b4f17ca9-12f7-46d1-86ec-757fac0d8818,Sara Tsegaye,Afar,Construction,2025-03-12,313119.12,23.78,36,234,0.375,620,0
+09d1c11f-ecbb-4aac-a46b-f89a5097621a,Sisay Eskinder,Gambela,Agriculture (Smallholder Farming),2025-12-09,279853.25,26.24,18,104,0.475,561,1
+cb508544-b481-4cde-aeaf-ab5619b65b6b,Tsion Haile,Afar,Agriculture (Smallholder Farming),2024-11-09,333996.74,18.84,36,134,0.384,633,0
+8ee43f7f-d768-4657-b0bd-f7be51497675,Worknesh Fitsum,Tigray,Agriculture (Smallholder Farming),2025-03-25,394467.89,16.1,6,88,0.311,604,1
+091f73f3-a046-44d3-a0a8-a8afd66f3fff,Eden Girma,Amhara,Services (Transport/Tourism),2025-10-29,384282.53,16.04,6,180,0.113,583,0
+230a37e5-3ef4-43df-820a-5c40a095c0d0,Bezawit Hakim,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-09-17,112098.1,14.02,18,451,0.14,626,0
+385fa73d-f173-46d5-9f42-eabd604f3c8d,Worku Tesfaye,Amhara,Digital/Tech (Mobile Money Agents),2025-07-04,360458.6,22.84,36,475,0.211,755,0
+26c451fd-7859-4bc6-83e9-c94c3217f93c,Gemechu Abera,Somali,Agriculture (Smallholder Farming),2025-11-17,352291.01,22.28,6,112,0.478,383,1
+7f297630-bbca-4210-afe6-1a89d059b594,Getachew Samuel,Gambela,Manufacturing (Textiles/Food Processing),2025-01-27,353229.92,20.66,36,167,0.365,589,1
+e0389eb7-a280-4710-b2d5-ad8721bd1db7,Mikael Natnael,Oromia,Construction,2024-03-20,379643.96,15.99,6,320,0.269,850,0
+b9291d34-db6e-40ba-842c-a512f369c683,Mesfin Kaleb,Harari,Services (Transport/Tourism),2023-05-23,349150.63,24.41,18,438,0.213,655,0
+7d9def75-1138-48db-af2f-841100d190bd,Yosef Bereket,Addis Ababa,Agriculture (Smallholder Farming),2023-12-04,160102.99,24.52,24,172,0.332,394,0
+2d98f251-b5c1-4027-b563-559e9c78bade,Bezawit Addis,Dire Dawa,Manufacturing (Textiles/Food Processing),2025-05-21,235951.81,12.94,24,461,0.127,594,0
+9d065ae8-4358-4e3f-b01f-90e76b0c7da5,Haile Yohannes,Afar,Manufacturing (Textiles/Food Processing),2023-03-07,101850.64,24.69,6,183,0.235,560,0
+a341441c-3c16-4571-957a-66e5a18af1fd,Mesfin Sisay,Dire Dawa,Manufacturing (Textiles/Food Processing),2024-08-18,145254.89,23.18,6,234,0.116,619,0
+f44f5031-a82d-4879-87cc-4d1c7bf6b2ad,Tsion Assefa,Gambela,Agriculture (Smallholder Farming),2024-06-30,11976.17,18.54,6,160,0.426,655,0
+3b5d5c9c-d737-44d5-8cd3-6406e0bd6044,Betelhem Samuel,Sidama,Construction,2023-10-12,289476.45,17.6,36,283,0.232,634,0
+cbf78eb1-7d7f-4fed-bc2c-e385ab00764e,Jemal Getachew,Harari,Livestock,2024-04-03,204216.15,20.68,6,344,0.154,788,0
+8b1d2284-5b6c-4b7a-990c-2e2a6467e0c0,Tirhas Eskinder,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2025-09-10,235350.39,13.82,18,362,0.186,656,0
+1cc41c62-380b-44cb-98b6-66f84ba0768a,Alemu Samuel,Gambela,Services (Transport/Tourism),2025-01-22,369527.91,19.69,24,118,0.222,728,0
+534d388e-7279-4c9e-b828-1e0b6b6a838e,Yonas Fikre,Amhara,Digital/Tech (Mobile Money Agents),2024-03-27,314223.76,20.21,36,440,0.145,850,0
+2d1b143e-1da6-436d-acc3-f8aaa9943d14,Ephrem Hakim,Somali,Trade/Retail (Market Vendors/Suq),2024-01-25,399949.86,22.31,6,199,0.331,378,0
+1d10b6f6-a91d-4cb2-91a3-d21bf4d1183f,Emebet Bekele,Addis Ababa,Agriculture (Smallholder Farming),2024-12-27,327051.66,19.92,18,178,0.499,485,1
+20c8667f-b46f-4145-a5e9-2e49b26c8876,Tsion Bekele,Harari,Digital/Tech (Mobile Money Agents),2024-06-28,276205.47,12.75,12,182,0.145,799,0
+7d3a8826-dd2f-4568-8e02-3728d712288a,Dawit Kebede,South West Ethiopia,Digital/Tech (Mobile Money Agents),2025-01-26,202752.01,12.46,18,132,0.319,675,0
+076a16e7-3c1f-49aa-afed-c6c3697905ea,Genet Mesfin,South West Ethiopia,Manufacturing (Textiles/Food Processing),2025-07-27,204829.3,23.34,24,231,0.255,679,0
+e3caa0c4-3711-42b7-81ea-b1da4496a883,Abera Dejen,Dire Dawa,Construction,2024-04-01,362591.87,12.54,18,211,0.181,606,0
+52bcb64d-c594-48c5-8ff0-18450f90cd63,Assefa Yonas,Benishangul-Gumuz,Manufacturing (Textiles/Food Processing),2024-10-02,170135.59,27.07,6,141,0.29,661,1
+64315fc2-6946-4f3f-914f-6fd9accc1507,Mahlet Dawit,Oromia,Digital/Tech (Mobile Money Agents),2024-02-16,205210.47,27.53,24,244,0.123,701,0
+e990ff49-42bd-41c4-a60f-dc406cd9dc3f,Bereket Adane,South West Ethiopia,Livestock,2024-11-22,111008.47,26.43,12,222,0.289,557,0
+380cfd3d-ba6a-441c-bc4a-14cf44b0703f,Mesfin Mesfin,Harari,Manufacturing (Textiles/Food Processing),2023-03-31,341863.02,22.19,6,241,0.125,559,0
+4efa8dc3-0bae-4fc1-918a-d3caa2e25753,Nardos Dejen,Afar,Construction,2024-06-16,170649.82,14.72,24,247,0.224,618,0
+e028c315-928f-4bae-b8a7-c67868e968cf,Mahlet Dawit,South West Ethiopia,Digital/Tech (Mobile Money Agents),2024-12-01,197808.78,20.02,6,82,0.26,714,0
+a012c6c2-c790-484c-b4c9-93ae8938279c,Kebede Getachew,Addis Ababa,Livestock,2023-09-21,149607.45,26.1,12,322,0.216,569,0
+9c5a342e-9d01-4d3c-b7df-9baff2a81e6e,Selome Gemechu,Harari,Trade/Retail (Market Vendors/Suq),2023-06-26,10238.54,25.85,6,358,0.248,639,0
+051978bf-8a2e-40d6-9ade-bcc221144198,Tsehay Lencho,Harari,Manufacturing (Textiles/Food Processing),2024-06-01,267922.33,22.43,6,496,0.255,648,0
+c7ca7ddc-171a-4d35-a112-7927cd6aee30,Dagmawit Tariku,Sidama,Digital/Tech (Mobile Money Agents),2023-02-07,47917.52,18.23,24,235,0.103,676,0
+c44fc2a8-5a4a-46ae-a987-cfb255525e11,Zewditu Hakim,Gambela,Livestock,2026-01-04,341422.88,12.96,24,184,0.256,532,0
+84c62e4b-0c99-4e2d-a7a9-98ab103f3a46,Bruktait Fikre,Amhara,Services (Transport/Tourism),2025-05-13,323117.89,18.18,18,188,0.137,636,1
+fc37337a-32cc-439d-8914-bc965cb27033,Tigist Habtamu,Tigray,Livestock,2023-11-28,293210.64,22.92,18,250,0.124,711,0
+dc16cbae-6541-45f8-8923-8eb6d690efa9,Selome Fitsum,Central Ethiopia,Trade/Retail (Market Vendors/Suq),2023-09-06,291294.63,18.05,24,499,0.114,571,0
+e9209b3a-2951-48a7-8d21-0a344a49ba1b,Tadesse Solomon,Sidama,Agriculture (Smallholder Farming),2023-12-28,50668.33,26.34,18,102,0.417,540,0
+8d8e352b-3732-4d15-a9d4-45f354dd528c,Adane Abebe,Central Ethiopia,Construction,2024-08-08,274086.53,15.28,18,424,0.211,679,0
+d8718196-093c-4582-837d-f82ef0a4be8a,Helen Robel,Dire Dawa,Services (Transport/Tourism),2024-01-27,371506.86,17.34,24,480,0.159,829,0
+1a3ecc71-86cc-456b-b0bb-1e32c14fa9be,Ruth Amanuel,South Ethiopia,Agriculture (Smallholder Farming),2023-02-06,230665.37,26.81,6,57,0.305,460,1
+0ad33361-7c22-4735-8a95-7c2e65df39cb,Jemal Dawit,Addis Ababa,Digital/Tech (Mobile Money Agents),2025-02-23,80291.12,20.17,6,248,0.191,638,0
+3ae19f9c-0634-40e6-8d2c-e7964878917a,Lencho Abera,Tigray,Manufacturing (Textiles/Food Processing),2023-09-06,169184.22,18.54,18,486,0.157,689,0
+08a5ad03-3f4f-4031-b025-5b9dc5bcc4cd,Hagos Dejen,Benishangul-Gumuz,Digital/Tech (Mobile Money Agents),2025-09-13,272725.19,13.1,36,132,0.239,622,0
+c8b7bcd0-d020-4ede-9fa7-0e6bbffa749e,Haile Eyob,Dire Dawa,Services (Transport/Tourism),2024-03-04,338841.61,26.37,36,386,0.181,574,0
+d17bd6cc-2195-4073-a697-9d0fa7c02a59,Abera Ephrem,Amhara,Construction,2024-08-14,75025.97,19.13,36,391,0.161,421,0
+12ea7890-1397-4770-95bd-18badcaaf6a5,Bezawit Tariku,Tigray,Trade/Retail (Market Vendors/Suq),2024-02-29,261346.43,27.0,12,191,0.119,828,0
+bb8e37e2-c32b-4a73-b417-dee1b8dc6390,Birhanu Sisay,Afar,Livestock,2025-02-27,94014.54,25.26,24,188,0.368,519,0
+d48b5d0d-be1e-40bc-83c6-1e180528d309,Kaleb Hakim,Oromia,Services (Transport/Tourism),2024-10-12,359164.98,24.68,18,483,0.235,633,0
+187666ec-26df-4b57-ab41-eac79ad8e1cc,Meklit Tadesse,Benishangul-Gumuz,Agriculture (Smallholder Farming),2025-04-26,235082.59,16.24,6,48,0.432,472,1
+d4db5496-31bc-49e6-a420-b22acae9250b,Abebe Worku,Gambela,Construction,2025-07-07,265845.69,26.78,6,102,0.246,430,0
+52dfc152-c8e6-4d4b-8feb-aa0edbfb491a,Sara Dejen,Dire Dawa,Digital/Tech (Mobile Money Agents),2025-08-03,189248.55,16.59,6,466,0.164,671,0
+4d59f68e-05ff-42f2-be54-eceb8329bd1a,Rahel Kebede,Harari,Agriculture (Smallholder Farming),2024-10-27,159648.99,20.63,24,91,0.376,504,0
+43a7320c-1984-43ce-b3e1-f6f7757ad703,Fikre Dejen,Gambela,Livestock,2024-03-06,117633.38,14.88,12,177,0.309,577,0
+4a8e9dd2-6067-4824-b8ad-b1829381ebb3,Dawit Solomon,Addis Ababa,Agriculture (Smallholder Farming),2025-10-21,22766.39,15.95,6,53,0.496,594,1
+68054a24-f785-4cc1-b8e5-91c417d2efe7,Getachew Bekele,Harari,Digital/Tech (Mobile Money Agents),2024-11-03,372407.08,19.12,6,181,0.277,568,0
+e85cc863-48cf-41da-bbbc-cb5d474f9205,Tirhas Yohannes,Afar,Digital/Tech (Mobile Money Agents),2025-05-26,258838.8,18.05,12,165,0.32,691,0
+61e5835e-3e9f-469a-81b0-1ca488800d17,Feven Mikael,Oromia,Digital/Tech (Mobile Money Agents),2026-01-01,117541.04,12.82,12,499,0.264,767,0
+64c5ee2d-ba41-448a-bf3d-adbdfe3f5662,Tesfaye Abera,South Ethiopia,Trade/Retail (Market Vendors/Suq),2023-02-01,228011.2,14.02,24,186,0.25,661,0
+1bb9d499-b6ee-41cf-8bec-c264c3405500,Jemal Hakim,Afar,Digital/Tech (Mobile Money Agents),2024-08-07,77458.11,26.77,6,211,0.304,540,0
+065f5046-f9a6-4744-93ef-e8f0395c0d62,Tadesse Tadesse,Somali,Construction,2024-12-08,114923.08,27.34,24,213,0.263,506,0
+5eaca15d-7274-4e76-bb6b-ecb7c56dbe29,Samrawit Sisay,Benishangul-Gumuz,Livestock,2024-09-14,60338.73,15.73,24,80,0.323,815,0
+4f842010-a48f-41f1-9be4-0ba9902ad019,Getachew Solomon,Addis Ababa,Services (Transport/Tourism),2025-01-15,57722.28,24.83,36,288,0.241,664,0
+f9cf2bd2-a142-4851-8f47-3d7224ce3160,Dawit Yosef,Gambela,Manufacturing (Textiles/Food Processing),2024-06-05,36820.53,24.67,12,234,0.338,578,0
+352aa2af-2b54-47b7-8f96-2ff2186b6a71,Nardos Berhanu,Oromia,Digital/Tech (Mobile Money Agents),2023-05-15,187955.39,14.95,6,337,0.167,603,0
+242e3d71-1579-4c24-bffd-f8f197e9afe2,Lemlem Hagos,Harari,Manufacturing (Textiles/Food Processing),2025-02-04,288799.46,20.69,18,194,0.249,717,0
+85fde9e9-7938-41a9-968b-c80f9dd23036,Hakim Birhanu,Gambela,Manufacturing (Textiles/Food Processing),2024-09-23,399490.76,26.71,6,210,0.344,630,0
+c474e1c0-0f16-4af8-bb80-8449c2b579c2,Nardos Lencho,Oromia,Digital/Tech (Mobile Money Agents),2025-06-04,84160.01,22.83,12,389,0.228,672,0
+bd92232a-4fbb-431a-a96f-90744084a290,Tirhas Assefa,Somali,Construction,2025-02-10,115833.92,22.94,18,86,0.377,547,1
+524a1652-0958-4354-a68e-81b4d5963842,Aberash Habtamu,Harari,Manufacturing (Textiles/Food Processing),2024-06-13,221333.57,14.72,12,483,0.104,756,0
+df15e667-6812-417c-9946-601e90b84f94,Tsion Ermias,Harari,Digital/Tech (Mobile Money Agents),2025-12-11,26952.68,18.86,36,185,0.237,729,0
+c14a2a61-358f-473f-b0bd-e14f44a524d9,Addis Elias,Gambela,Agriculture (Smallholder Farming),2023-01-14,23813.4,23.93,24,123,0.429,564,1
+7ff3e818-8bab-4414-bd1d-3494cb712efd,Adane Gemechu,Sidama,Digital/Tech (Mobile Money Agents),2025-05-28,60525.96,25.95,12,342,0.164,564,0
+5263f8e0-3c59-49c6-a6ea-0997f5a02c0a,Tadesse Dejen,Central Ethiopia,Digital/Tech (Mobile Money Agents),2024-05-06,90404.29,27.87,24,425,0.236,671,0
+8e07d8fc-83b1-41ec-bba5-a5dfb5786277,Frehiwot Haile,Tigray,Manufacturing (Textiles/Food Processing),2024-12-22,202920.63,14.8,24,331,0.232,557,0
+b30269aa-6cfa-4ecc-9ae4-27cfebd5c149,Bekele Yonas,South Ethiopia,Digital/Tech (Mobile Money Agents),2023-05-12,139473.52,21.02,6,161,0.336,850,0
+037ce599-c1c3-43c4-a095-95a4602cf604,Fitsum Gemechu,Dire Dawa,Livestock,2023-05-06,64188.92,26.64,24,235,0.267,850,0
+2a8be289-1f19-497e-bf86-ad63851ab93f,Emebet Mesfin,Oromia,Digital/Tech (Mobile Money Agents),2023-09-14,397915.15,27.94,12,472,0.254,794,0
+1d191f64-f8cf-414a-9ea7-e1ae7006a2c6,Alemu Samuel,Tigray,Manufacturing (Textiles/Food Processing),2023-11-08,168805.21,17.11,18,227,0.183,630,0
+2bb47157-7ec4-49d8-ac97-34c0e2b05055,Eden Elias,Dire Dawa,Livestock,2023-03-07,344470.82,12.61,18,449,0.127,644,0
+23ce37db-7cb8-449d-864b-789acd9b79fd,Elias Yonas,South West Ethiopia,Agriculture (Smallholder Farming),2025-09-04,398824.89,14.77,6,87,0.329,679,1
+4bf7e012-025e-4446-a63f-730d6b0bb457,Assefa Addis,Oromia,Livestock,2025-05-04,202855.96,27.86,24,358,0.108,615,0
+b84e2f11-4b52-4dc2-bee9-19726f7b93e7,Bereket Hagos,Somali,Agriculture (Smallholder Farming),2023-07-07,185413.4,26.74,12,90,0.412,549,1
+9d7739b2-5287-45f4-85c1-418145674f45,Tewodros Kebede,Central Ethiopia,Construction,2025-11-22,172431.26,27.45,6,212,0.208,809,0
+243a7f53-2a7b-4a7c-a674-dd6b9055e085,Aberash Yohannes,Harari,Services (Transport/Tourism),2024-08-05,310315.33,22.16,12,472,0.143,707,0
+cd853347-3457-4c7f-af5d-b99c85f3cb12,Hakim Lencho,Somali,Digital/Tech (Mobile Money Agents),2024-03-31,299329.49,27.94,18,118,0.348,599,0
+84f612df-5f0a-44fb-b6e7-d214f3b5f7d7,Hagos Natnael,Gambela,Digital/Tech (Mobile Money Agents),2025-08-16,236421.14,17.27,12,110,0.354,679,0
+35eb0106-767f-4095-b8dc-340b4051391c,Ephrem Habtamu,Addis Ababa,Agriculture (Smallholder Farming),2025-08-02,398888.28,16.15,24,90,0.447,372,1
+ff0614bb-b85a-44cd-bf2b-f0e4ed55169f,Abera Eyob,Gambela,Construction,2024-06-01,72628.88,26.33,24,115,0.315,617,0
+d4541573-b70f-4392-863d-aa902a0b83f4,Abeba Fikre,Harari,Livestock,2023-08-04,95791.06,17.4,18,192,0.169,669,0
+2de1bda4-6a92-447b-9154-00a60283a43b,Roman Sisay,Dire Dawa,Livestock,2025-01-11,385885.5,18.33,18,336,0.105,672,0
+fa1b1bac-fe49-45a4-912a-0ef57872420e,Marta Tariku,South West Ethiopia,Manufacturing (Textiles/Food Processing),2023-08-27,39484.62,16.58,18,92,0.234,626,0
+3303343c-300b-4e7b-b393-2fb84fd4c793,Rahel Yonas,Somali,Services (Transport/Tourism),2023-01-14,361821.52,23.01,18,175,0.375,825,0
+54beb7e0-7566-4394-89a8-c57d1806699f,Feven Zewdu,Gambela,Construction,2025-12-19,234760.44,19.75,24,220,0.355,714,0
+982e2afd-77fc-462b-9ffe-37090fa4c293,Zewditu Tsegaye,Amhara,Construction,2023-06-02,316681.94,15.06,18,439,0.217,706,0
+8f24da7e-a2e7-48d7-99b7-463f1117f840,Senait Amanuel,Tigray,Trade/Retail (Market Vendors/Suq),2023-09-06,274199.53,27.96,18,460,0.105,789,0
+ed8982c2-039d-4d70-a0fa-7665584f218a,Jemal Birhanu,Amhara,Manufacturing (Textiles/Food Processing),2023-12-23,339181.97,23.79,24,333,0.261,609,0
+e958c430-d21c-4643-88c0-8457464aea48,Kebede Abebe,Tigray,Construction,2023-11-01,32679.68,25.63,24,422,0.231,566,0
+5e05b8b1-4e45-4736-bab4-eb77959fb841,Selamawit Tsegaye,Sidama,Services (Transport/Tourism),2024-10-29,158163.02,27.33,12,261,0.111,597,0
+41374168-ef2e-4dc9-a73c-984bc4596172,Hiwot Bekele,Amhara,Construction,2025-09-02,25231.3,23.88,18,333,0.16,766,0
+33dcd09c-a8cc-4023-a43f-daf08a8016fe,Lemlem Sisay,Central Ethiopia,Livestock,2025-05-26,218566.88,24.44,36,196,0.205,769,0
+bb0c686a-1a5c-4752-a705-1d9697b732b3,Frehiwot Tesfaye,Central Ethiopia,Construction,2023-05-06,239764.53,12.2,6,485,0.262,778,0
+904c01a1-434f-4133-ada6-b97447ad21dd,Almaz Adane,Afar,Construction,2023-12-08,354267.37,19.12,6,93,0.301,468,0
+965a693e-85b6-4e95-8c00-9f08206faddb,Genet Robel,Sidama,Livestock,2023-06-13,359107.39,24.61,12,470,0.123,804,0
+935e2c27-5485-40db-a208-c875c41c233d,Betelhem Hagos,South Ethiopia,Manufacturing (Textiles/Food Processing),2025-10-03,309933.97,17.61,12,231,0.279,599,0
+ceab2f76-f776-44e8-86f9-09649ad28c4a,Meklit Bereket,Somali,Agriculture (Smallholder Farming),2025-07-13,232522.58,23.41,12,47,0.456,490,1
+35951ffd-7931-40ce-a8c3-47d0ab229d1d,Mikael Bekele,Central Ethiopia,Agriculture (Smallholder Farming),2025-08-19,123799.91,20.12,18,49,0.368,497,1
+fd34d21e-3b59-475e-888a-9a7400af085d,Kaleb Mikael,Addis Ababa,Construction,2023-09-24,208802.66,17.89,12,467,0.196,503,0
+9d6ba3b5-cda8-48b5-adf6-cca41761f1ce,Mikael Hagos,Dire Dawa,Trade/Retail (Market Vendors/Suq),2023-12-08,362602.08,14.96,24,485,0.223,677,0
+dfe6b589-79b8-423d-aa31-89ba24b17e45,Hagos Robel,Harari,Digital/Tech (Mobile Money Agents),2023-08-21,351799.31,14.0,18,276,0.189,647,0
+f84791e0-e55d-42af-93e9-e07052c64562,Mulugeta Kebede,Amhara,Construction,2023-01-06,182870.36,17.9,18,474,0.221,607,0
+708f75a1-cea6-49bc-82ff-1dad2310c9fb,Hakim Samuel,Afar,Manufacturing (Textiles/Food Processing),2023-03-28,187522.3,24.4,18,118,0.291,603,0
+4d747649-53bc-40e0-b8c0-9d8baa3319bc,Genet Lencho,Central Ethiopia,Agriculture (Smallholder Farming),2024-10-27,236632.32,14.61,6,174,0.344,520,1
+8f65abf9-3da3-4aca-9e07-24a8c28fd8cb,Assefa Natnael,Oromia,Construction,2025-02-21,371976.64,20.35,18,358,0.135,598,0
+b4cc7214-62b2-45ad-861f-98b160975bc0,Abera Bereket,South West Ethiopia,Manufacturing (Textiles/Food Processing),2024-09-07,253071.0,19.04,6,234,0.283,445,0
+85a0daf6-d6b1-4a8c-8fcf-9f895ae0bb5a,Alemu Hagos,Central Ethiopia,Agriculture (Smallholder Farming),2025-01-12,40772.28,12.39,6,162,0.35,533,0
+9afa3fb4-e21f-4167-9404-e49287db0168,Zewditu Samuel,Central Ethiopia,Livestock,2024-05-12,311444.08,23.46,12,412,0.21,624,0
+a23ebe36-f20b-40c9-aa86-9922f4927b35,Nardos Mesfin,Afar,Digital/Tech (Mobile Money Agents),2023-12-04,355170.96,18.39,6,186,0.284,514,0
+6fef2c5d-d702-4edd-a494-0bbdb61ae1b0,Addis Abera,Gambela,Agriculture (Smallholder Farming),2024-03-12,390441.29,14.22,12,62,0.368,508,1
+c9f99d37-b1f2-4ebf-bd76-c495710fc415,Abeba Ermias,South Ethiopia,Construction,2025-05-25,69381.45,12.72,12,188,0.267,562,0
+e656cfbc-8ed2-4e16-9ec8-0917af744001,Eyob Robel,Gambela,Agriculture (Smallholder Farming),2024-01-30,58239.81,22.33,36,105,0.499,483,1
+0679c4f2-2d92-48a4-9922-5b53a6ef8273,Almaz Habtamu,Addis Ababa,Digital/Tech (Mobile Money Agents),2024-11-12,389020.35,14.86,36,210,0.192,583,0
+ab87aea4-c54f-47ad-b750-bfbbdaf9ae1b,Solomon Haile,Tigray,Manufacturing (Textiles/Food Processing),2024-07-27,104499.22,26.25,12,190,0.265,850,0
+9df20554-36ba-4892-ac90-5f13ba7e6b51,Yosef Haile,Central Ethiopia,Agriculture (Smallholder Farming),2024-06-26,74565.74,18.96,24,166,0.426,403,0
+f07cfca7-ebac-48e1-bf76-61bbe054dba1,Emebet Yohannes,South Ethiopia,Services (Transport/Tourism),2025-05-24,10389.61,24.87,36,231,0.362,430,0
+eee5b33e-2dd3-4f8e-9fcb-f48261e8baa5,Tariku Fitsum,South Ethiopia,Manufacturing (Textiles/Food Processing),2023-10-29,399726.8,21.44,24,138,0.329,687,0
+86a81b2b-5c69-4e49-b12c-31263222504f,Eyob Robel,Amhara,Services (Transport/Tourism),2023-01-22,13772.29,15.52,12,451,0.22,701,0
+5415668e-4f75-43d1-9610-7189016ff44c,Kaleb Tsegaye,Central Ethiopia,Livestock,2023-11-04,171261.6,17.78,6,329,0.233,734,0
+40f66fde-ea72-4584-9e6e-187ae939f790,Kebede Yonas,Sidama,Livestock,2023-06-01,123672.14,26.8,12,385,0.199,606,0
+45e526e1-9b55-4178-8353-9b9aebeb9d98,Tariku Kebede,Oromia,Trade/Retail (Market Vendors/Suq),2025-02-25,144175.91,25.99,12,234,0.109,376,0
+7a8e5e5c-a444-4040-8663-3755a5b01639,Mesfin Yonas,South West Ethiopia,Services (Transport/Tourism),2023-02-27,302979.77,16.51,24,176,0.255,612,0
+b44aad77-b20c-4a3f-bee8-acf10b3e2b6e,Mulugeta Fitsum,Central Ethiopia,Services (Transport/Tourism),2024-09-15,50828.93,15.09,36,192,0.28,714,0
+f89cad3f-0ea6-4dbf-a011-b8d84630419c,Mahlet Solomon,Oromia,Livestock,2024-02-03,173849.95,26.17,12,333,0.236,660,0
+b7d0c829-dcf9-4680-87ca-07d8d2c57940,Liya Solomon,Addis Ababa,Construction,2025-06-12,353120.13,19.11,12,479,0.268,850,0
+7458d92c-a1da-4c7a-9b88-26edff4a9185,Tariku Elias,Dire Dawa,Services (Transport/Tourism),2025-01-06,37024.13,23.92,6,388,0.161,586,0
+dffbdc2d-bffb-4e28-b933-ea492c7c4106,Tariku Adane,Sidama,Trade/Retail (Market Vendors/Suq),2025-02-05,67274.29,14.97,24,353,0.159,642,0
+1a985b74-ceb3-470f-8bab-9c9cc0266d51,Rahel Habtamu,Oromia,Agriculture (Smallholder Farming),2025-10-07,292501.46,13.32,24,76,0.418,602,1
+e4ee8f51-9ce8-4b7d-8761-dc0c5e99c568,Amanuel Tesfaye,South Ethiopia,Digital/Tech (Mobile Money Agents),2023-03-06,340021.03,19.28,24,138,0.344,627,0
+def42b39-2d49-4235-bc77-5a20b4a4cb80,Habtamu Berhanu,Sidama,Digital/Tech (Mobile Money Agents),2023-08-31,39101.43,17.57,12,383,0.141,661,0
+d8868de4-d585-4f0b-ab69-1bd21533fe82,Dejen Addis,Amhara,Construction,2023-07-29,302917.49,20.24,24,402,0.116,743,0
+b5e9489c-a331-44b0-b181-38900e592949,Abebe Samuel,Afar,Digital/Tech (Mobile Money Agents),2023-07-10,362377.18,21.15,36,195,0.341,535,0
+8b490e26-db9e-42e6-98f4-26dd5071ce94,Konjit Gemechu,Central Ethiopia,Livestock,2023-04-12,74046.07,13.13,36,496,0.158,680,0
+a7b4f9c8-31b5-4fb0-9a42-698bfbc053a8,Yonas Natnael,Addis Ababa,Services (Transport/Tourism),2024-03-12,178087.4,23.62,18,342,0.225,850,0
+d6578ecb-5529-485a-8444-c6f1bcc9c2e6,Dawit Tadesse,South West Ethiopia,Construction,2025-08-16,399318.2,17.74,24,213,0.363,752,0
+e5d20eae-5104-4a0c-a650-8af4d9259a4b,Senait Yosef,Addis Ababa,Trade/Retail (Market Vendors/Suq),2025-11-14,243318.64,12.85,18,357,0.114,665,0
+b8dddfc2-963b-431c-bc7c-356de7dd93a5,Haile Dejen,Oromia,Manufacturing (Textiles/Food Processing),2023-09-25,300862.41,14.76,24,383,0.209,761,0
+aa1c5dca-f0c7-415e-83a0-b96b842ee348,Zewdu Dawit,Sidama,Livestock,2024-07-27,321374.5,24.41,12,319,0.194,757,0

@@ -1,0 +1,1 @@
+SELECT * FROM kifiya_portfolio_db.msme_loans;
